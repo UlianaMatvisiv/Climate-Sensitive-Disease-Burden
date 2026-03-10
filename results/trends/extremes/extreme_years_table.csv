@@ -1,0 +1,1181 @@
+country,year,n_extreme_vars,max_z_score,extreme_high_vars,extreme_low_vars,extreme_high_count,extreme_low_count
+Algeria,1990,1,2.0500318621717795,max_runoff,,1,0
+Algeria,1991,1,1.8876939080378323,,mean_temp,0,1
+Algeria,1992,2,2.4683158701722667,extreme_rain_days,mean_temp,1,1
+Algeria,1993,1,1.1738205269698745,pressure_variability,,1,0
+Algeria,1994,1,1.7577049302996173,,min_monthly_soil_moisture,0,1
+Algeria,1995,1,2.187872957384689,max_temp,,1,0
+Algeria,1996,2,1.364685262876153,,"annual_total_evap, mean_latent_heat",0,2
+Algeria,1997,2,1.3921628307759413,max_monthly_wind_speed,mean_annual_rsn,1,1
+Algeria,1998,1,0.41824015782298357,,mean_sensible_heat,0,1
+Algeria,1999,5,2.9110383464932243,"anomaly_heat_days, anomaly_cold_days, winter_mean_snow_density, mean_annual_rsn",min_temp,4,1
+Algeria,2000,6,2.010318925087708,"annual_dry_area, drought_episodes, ozone_mean, mean_annual_wind_speed, mean_annual_net_solar",mean_annual_net_thermal,5,1
+Algeria,2001,4,1.6281606440319993,"drought_episodes, mean_annual_net_solar","min_monthly_soil_moisture, mean_annual_net_thermal",2,2
+Algeria,2002,1,2.316507411210667,max_temp,,1,0
+Algeria,2003,2,2.292106438420284,"heavy_rain_days, runoff_days",,2,0
+Algeria,2004,1,1.619056012199632,heavy_rain_days,,1,0
+Algeria,2005,7,3.2840899691785883,"anomaly_cold_days, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, runoff_days, mean_annual_rsn",min_temp,6,1
+Algeria,2006,1,1.7033259098595055,heat_episodes,,1,0
+Algeria,2007,2,1.6215702744839628,"extreme_rain_days, pm2.5_mean",,2,0
+Algeria,2008,1,1.3591915391301062,pm2.5_mean,,1,0
+Algeria,2009,3,1.6215702744839628,extreme_rain_days,"annual_total_evap, mean_latent_heat",1,2
+Algeria,2010,6,2.132640037287753,"mean_temp, extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area",,6,0
+Algeria,2012,3,2.269326122216481,"annual_freeze_burden, mean_cold_area, max_runoff",,3,0
+Algeria,2015,2,2.9166221313282366,"max_monthly_wind_speed, pressure_variability",,2,0
+Algeria,2016,1,1.9862197554375298,no2_mean,,1,0
+Algeria,2019,1,1.8367287821052247,max_year_precip,,1,0
+Algeria,2020,4,3.6804548095304965,"max_year_precip, evap_deficit, ozone_mean",mean_sensible_heat,3,1
+Algeria,2021,3,2.660879010540107,"mean_temp, anomaly_heat_days, evap_deficit",,3,0
+Algeria,2022,11,2.430968769167216,"mean_dry_area, pm2.5_mean, mean_annual_wind_speed, annual_total_evap, annual_potential_evap, mean_annual_net_thermal, mean_latent_heat, mean_sensible_heat","mean_soil_moisture, mean_annual_rsn, mean_annual_net_solar",8,3
+Algeria,2023,16,5.485189643323215,"heat_episodes, extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, annual_dry_area, drought_episodes, mean_dry_area, annual_total_evap, annual_potential_evap, mean_annual_net_thermal, mean_latent_heat, mean_sensible_heat","mean_soil_moisture, mean_annual_net_solar",14,2
+Australia,1990,1,1.3519201334942874,no2_mean,,1,0
+Australia,1991,1,1.5078159399767603,anomaly_heat_days,,1,0
+Australia,1994,6,2.3991388207688487,"anomaly_cold_days, annual_freeze_burden, mean_cold_area, drought_episodes, mean_annual_rsn",min_temp,5,1
+Australia,1995,1,2.060127584857911,winter_mean_snow_density,,1,0
+Australia,1997,2,2.1036469639627766,"annual_freeze_burden, mean_cold_area",,2,0
+Australia,1998,1,1.6856964467960442,heavy_rain_days,,1,0
+Australia,1999,2,2.941630681129969,max_monthly_wind_speed,mean_annual_rsn,1,1
+Australia,2000,7,2.012346152124324,"anomaly_cold_days, extreme_rain_days, mean_annual_rsn, mean_sensible_heat","mean_temp, annual_total_evap, mean_latent_heat",4,3
+Australia,2001,1,1.7394058837944586,max_year_precip,,1,0
+Australia,2002,10,1.8352631035610318,"extreme_heat_episodes, annual_dry_area, mean_dry_area, evap_deficit, ozone_mean, mean_annual_net_solar","mean_soil_moisture, min_monthly_soil_moisture, mean_annual_net_thermal, mean_sensible_heat",6,4
+Australia,2003,1,1.478960424035466,ozone_mean,,1,0
+Australia,2005,1,1.4149612580937516,heat_episodes,,1,0
+Australia,2006,3,2.220383810885863,"winter_mean_snow_density, ozone_mean, mean_annual_wind_speed",,3,0
+Australia,2007,1,1.9245406860709033,max_runoff,,1,0
+Australia,2008,1,1.8548047493242636,pressure_variability,,1,0
+Australia,2009,2,2.2443997404546088,"max_runoff, pm2.5_mean",,2,0
+Australia,2010,1,1.5828916410721598,heavy_rain_days,,1,0
+Australia,2011,6,2.7100421364486427,"extreme_rain_days, runoff_days, mean_sensible_heat","mean_temp, annual_total_evap, mean_latent_heat",3,3
+Australia,2013,7,2.219588665558431,"mean_temp, heat_episodes, extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area",,7,0
+Australia,2017,2,1.5518977444256834,max_monthly_wind_speed,min_temp,1,1
+Australia,2018,1,1.6695999358556206,max_temp,,1,0
+Australia,2019,22,4.640434307602634,"mean_temp, max_temp, anomaly_heat_days, heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, max_year_precip, annual_dry_area, drought_episodes, mean_dry_area, evap_deficit, pm2.5_mean, mean_annual_wind_speed, annual_total_evap, mean_annual_net_solar, mean_latent_heat","mean_soil_moisture, min_monthly_soil_moisture, mean_annual_net_thermal, mean_sensible_heat",18,4
+Australia,2022,3,2.325289021389367,"annual_potential_evap, mean_annual_net_thermal",mean_annual_net_solar,2,1
+Australia,2023,8,4.517303477255772,"runoff_days, pressure_variability, annual_total_evap, annual_potential_evap, mean_annual_net_thermal, mean_latent_heat","mean_annual_rsn, mean_annual_net_solar",6,2
+Austria,1990,3,2.86580385037765,"pm2.5_mean, no2_mean",mean_annual_rsn,2,1
+Austria,1991,5,2.1425779266144955,"annual_freeze_burden, mean_cold_area, extreme_rain_days, pm2.5_mean",mean_temp,4,1
+Austria,1992,5,3.384784831026272,"anomaly_heat_days, winter_mean_snow_density, mean_annual_rsn","mean_soil_moisture, min_monthly_soil_moisture",3,2
+Austria,1994,1,1.7660096271107502,anomaly_heat_days,,1,0
+Austria,1996,7,2.3648863438838803,"annual_freeze_burden, mean_cold_area, annual_total_evap, annual_potential_evap, mean_latent_heat","mean_temp, mean_annual_net_solar",5,2
+Austria,1998,1,0.9275496156190982,mean_sensible_heat,,1,0
+Austria,1999,3,3.655723881553398,"runoff_days, max_runoff, max_monthly_wind_speed",,3,0
+Austria,2000,2,1.8518905496691265,"runoff_days, mean_annual_wind_speed",,2,0
+Austria,2001,2,1.535276416380746,anomaly_cold_days,min_temp,1,1
+Austria,2002,2,3.165213935205776,"max_year_precip, ozone_mean",,2,0
+Austria,2003,16,3.0456428323287037,"anomaly_heat_days, extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, annual_dry_area, drought_episodes, mean_dry_area, evap_deficit, ozone_mean, mean_annual_net_solar","mean_soil_moisture, min_monthly_soil_moisture, mean_annual_net_thermal, mean_sensible_heat",12,4
+Austria,2005,2,2.873722522969089,"anomaly_cold_days, max_runoff",,2,0
+Austria,2006,2,2.2637559659525266,"winter_mean_snow_density, mean_annual_rsn",,2,0
+Austria,2007,4,2.0708156604473253,"max_temp, max_monthly_wind_speed","annual_total_evap, mean_latent_heat",2,2
+Austria,2011,6,2.846909077533513,"annual_dry_area, drought_episodes, mean_dry_area, mean_annual_net_solar","mean_annual_net_thermal, mean_sensible_heat",4,2
+Austria,2012,1,1.727115430735151,heavy_rain_days,,1,0
+Austria,2013,3,3.2345761130088766,"max_temp, heat_episodes, pressure_variability",,3,0
+Austria,2015,5,3.202003944029596,"extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area",,5,0
+Austria,2016,2,1.9569097293486029,pressure_variability,mean_annual_rsn,1,1
+Austria,2017,2,1.4921521688830455,evap_deficit,min_temp,1,1
+Austria,2018,3,1.5798373337891705,mean_temp,"annual_total_evap, mean_latent_heat",1,2
+Austria,2019,1,3.2345761130088766,heat_episodes,,1,0
+Austria,2020,1,2.1074787162228716,max_year_precip,,1,0
+Austria,2022,1,0.7805118181276512,mean_annual_net_thermal,,1,0
+Austria,2023,10,5.135845082467063,"mean_temp, heavy_rain_days, extreme_rain_days, mean_annual_wind_speed, annual_total_evap, annual_potential_evap, mean_annual_net_thermal, mean_latent_heat, mean_sensible_heat",mean_annual_net_solar,9,1
+Bolivia,1990,4,1.7458330755933689,winter_mean_snow_density,"mean_temp, annual_total_evap, mean_latent_heat",1,3
+Bolivia,1992,8,2.6227040996367013,"annual_freeze_burden, mean_cold_area, annual_potential_evap, mean_annual_rsn, mean_sensible_heat","mean_temp, annual_total_evap, mean_latent_heat",5,3
+Bolivia,1993,2,1.7869673986864396,"heavy_rain_days, mean_annual_rsn",,2,0
+Bolivia,1994,2,2.842356493545339,"max_year_precip, max_runoff",,2,0
+Bolivia,1995,1,1.7045808750110547,extreme_rain_days,,1,0
+Bolivia,1996,1,2.3239890072799416,pressure_variability,,1,0
+Bolivia,1997,2,2.403725195647424,"max_monthly_wind_speed, mean_annual_wind_speed",,2,0
+Bolivia,2001,1,2.244632546953803,winter_mean_snow_density,,1,0
+Bolivia,2002,2,2.422916817064835,mean_annual_wind_speed,min_temp,1,1
+Bolivia,2006,1,1.3223712823191867,runoff_days,,1,0
+Bolivia,2008,1,1.3223712823191867,runoff_days,,1,0
+Bolivia,2009,1,2.2268547721161376,max_monthly_wind_speed,,1,0
+Bolivia,2010,5,1.9825727671614757,"evap_deficit, pressure_variability, mean_annual_net_solar","min_monthly_soil_moisture, mean_annual_net_thermal",3,2
+Bolivia,2012,2,1.8879851463730035,"extreme_rain_days, runoff_days",,2,0
+Bolivia,2014,4,2.8333518438692202,"max_temp, max_year_precip, runoff_days, max_runoff",,4,0
+Bolivia,2017,3,2.0616793184535145,"anomaly_cold_days, heavy_rain_days",min_temp,2,1
+Bolivia,2018,1,2.257663745743597,anomaly_cold_days,,1,0
+Bolivia,2020,17,2.4885872842168952,"mean_temp, anomaly_heat_days, heat_episodes, extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, annual_dry_area, drought_episodes, mean_dry_area, evap_deficit, mean_annual_net_solar","mean_soil_moisture, mean_annual_rsn, mean_annual_net_thermal, mean_sensible_heat",13,4
+Bolivia,2021,2,1.5981636183705719,,"min_monthly_soil_moisture, mean_sensible_heat",0,2
+Bolivia,2022,11,2.6644097335885726,"max_temp, annual_freeze_burden, mean_cold_area, annual_dry_area, drought_episodes, mean_dry_area, annual_total_evap, mean_annual_net_thermal, mean_latent_heat","mean_soil_moisture, mean_annual_net_solar",9,2
+Bolivia,2023,15,5.353083914792369,"mean_temp, anomaly_heat_days, heat_episodes, extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, annual_total_evap, annual_potential_evap, mean_annual_net_thermal, mean_latent_heat, mean_sensible_heat","mean_annual_rsn, mean_annual_net_solar",13,2
+Bosnia and Herz.,1991,1,1.9128621011508864,,mean_temp,0,1
+Bosnia and Herz.,1992,1,0.8747660664423317,,mean_annual_net_thermal,0,1
+Bosnia and Herz.,1993,2,1.6119373083170736,"annual_freeze_burden, mean_cold_area",,2,0
+Bosnia and Herz.,1996,5,2.1055246073058704,"annual_total_evap, mean_annual_net_thermal, mean_latent_heat","mean_temp, mean_annual_net_solar",3,2
+Bosnia and Herz.,1997,3,1.9243700986103474,"annual_freeze_burden, mean_cold_area, mean_annual_wind_speed",,3,0
+Bosnia and Herz.,1998,3,1.9812051833589037,"anomaly_cold_days, max_monthly_wind_speed, mean_annual_wind_speed",,3,0
+Bosnia and Herz.,1999,2,1.6586819610793577,"mean_annual_rsn, mean_sensible_heat",,2,0
+Bosnia and Herz.,2000,11,2.1262164586942385,"max_temp, anomaly_heat_days, winter_mean_snow_density, annual_dry_area, mean_dry_area, evap_deficit, max_monthly_wind_speed, mean_annual_net_solar","mean_soil_moisture, min_monthly_soil_moisture, mean_annual_net_thermal",8,3
+Bosnia and Herz.,2002,3,2.642683639414267,"winter_mean_snow_density, max_year_precip, max_runoff",,3,0
+Bosnia and Herz.,2003,6,3.1936505457364306,"anomaly_heat_days, anomaly_cold_days, max_year_precip, max_runoff","min_temp, mean_sensible_heat",4,2
+Bosnia and Herz.,2004,1,1.892431738716703,runoff_days,,1,0
+Bosnia and Herz.,2005,3,2.491897693217025,"runoff_days, annual_potential_evap, mean_annual_rsn",,3,0
+Bosnia and Herz.,2006,1,1.8582626668677642,pressure_variability,,1,0
+Bosnia and Herz.,2007,1,1.755795394929155,max_temp,,1,0
+Bosnia and Herz.,2010,2,2.307119759139064,"heavy_rain_days, extreme_rain_days",,2,0
+Bosnia and Herz.,2011,3,1.9355714828389505,"annual_dry_area, drought_episodes, mean_dry_area",,3,0
+Bosnia and Herz.,2012,10,2.380220093037685,"heat_episodes, extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, evap_deficit","mean_soil_moisture, min_monthly_soil_moisture, mean_sensible_heat",7,3
+Bosnia and Herz.,2013,1,1.915217443272725,pressure_variability,,1,0
+Bosnia and Herz.,2014,4,2.3059368723125506,"heavy_rain_days, extreme_rain_days","annual_total_evap, mean_annual_rsn",2,2
+Bosnia and Herz.,2015,5,1.5846302146998934,"extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area",,5,0
+Bosnia and Herz.,2016,1,0.8868965972186466,,mean_latent_heat,0,1
+Bosnia and Herz.,2017,2,2.311863647321006,heat_episodes,min_temp,1,1
+Bosnia and Herz.,2020,5,1.4598285305769465,"drought_episodes, mean_annual_net_solar","annual_total_evap, mean_annual_rsn, mean_latent_heat",2,3
+Bosnia and Herz.,2021,1,1.6073519386175024,heat_episodes,,1,0
+Bosnia and Herz.,2022,1,1.5852854637471376,mean_temp,,1,0
+Bosnia and Herz.,2023,7,5.019865540922625,"mean_temp, annual_total_evap, annual_potential_evap, mean_annual_net_thermal, mean_latent_heat, mean_sensible_heat",mean_annual_net_solar,6,1
+Botswana,1992,7,1.5623630802703699,"heat_episodes, annual_total_evap, mean_annual_net_solar, mean_latent_heat","mean_soil_moisture, mean_annual_net_thermal, mean_sensible_heat",4,3
+Botswana,1994,4,2.824765289280471,"anomaly_cold_days, annual_freeze_burden, mean_cold_area",min_monthly_soil_moisture,3,1
+Botswana,1996,5,3.4273183256758672,"annual_freeze_burden, mean_cold_area, max_year_precip, mean_annual_rsn",min_temp,4,1
+Botswana,1998,1,1.8952077755319312,winter_mean_snow_density,,1,0
+Botswana,1999,2,2.104710773724291,"max_monthly_wind_speed, mean_annual_wind_speed",,2,0
+Botswana,2000,7,2.630047169094083,"winter_mean_snow_density, heavy_rain_days, extreme_rain_days, pressure_variability","mean_temp, annual_total_evap, mean_latent_heat",4,3
+Botswana,2001,1,2.041777651459845,pm2.5_mean,,1,0
+Botswana,2002,1,0.4048680301832105,,mean_annual_rsn,0,1
+Botswana,2003,2,1.3944464249353008,evap_deficit,mean_sensible_heat,1,1
+Botswana,2004,1,0.4048680301832105,,mean_annual_rsn,0,1
+Botswana,2005,1,0.4048680301832105,,mean_annual_rsn,0,1
+Botswana,2006,3,2.118688338661424,"heavy_rain_days, ozone_mean",mean_temp,2,1
+Botswana,2007,1,1.7773196354467458,ozone_mean,,1,0
+Botswana,2010,1,2.0989138161920553,pm2.5_mean,,1,0
+Botswana,2011,5,2.140255041496526,"max_temp, anomaly_cold_days, heavy_rain_days, no2_mean",min_temp,4,1
+Botswana,2012,1,3.371465129475146,mean_annual_rsn,,1,0
+Botswana,2013,2,2.9105508922458387,"max_year_precip, max_runoff",,2,0
+Botswana,2014,1,2.411945196004772,runoff_days,,1,0
+Botswana,2015,8,1.780050345570226,"mean_temp, annual_dry_area, drought_episodes, mean_dry_area, evap_deficit, mean_annual_net_solar","mean_soil_moisture, mean_annual_net_thermal",6,2
+Botswana,2016,1,2.7644214036063888,anomaly_heat_days,,1,0
+Botswana,2017,3,2.8911629413030178,runoff_days,"annual_total_evap, mean_latent_heat",1,2
+Botswana,2019,10,2.7615150558091712,"mean_temp, max_temp, anomaly_heat_days, heat_episodes, extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area",min_monthly_soil_moisture,9,1
+Botswana,2021,2,2.3086814353846505,"extreme_rain_days, pressure_variability",,2,0
+Botswana,2022,7,2.126839440375474,"max_runoff, max_monthly_wind_speed, mean_annual_wind_speed, annual_potential_evap, mean_annual_net_thermal, mean_sensible_heat",mean_annual_net_solar,6,1
+Botswana,2023,14,4.9580054195268195,"extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, annual_dry_area, drought_episodes, mean_dry_area, annual_total_evap, annual_potential_evap, mean_annual_net_thermal, mean_latent_heat, mean_sensible_heat",mean_annual_net_solar,13,1
+Brazil,1990,4,2.1950891070632155,"anomaly_cold_days, pm2.5_mean","annual_total_evap, mean_latent_heat",2,2
+Brazil,1991,4,2.2312323096585023,"max_year_precip, max_runoff, pressure_variability",min_temp,3,1
+Brazil,1992,1,2.279947750561024,mean_annual_wind_speed,,1,0
+Brazil,1994,1,2.778819829999995,mean_annual_rsn,,1,0
+Brazil,1996,3,1.5810580663837086,pressure_variability,"annual_total_evap, mean_latent_heat",1,2
+Brazil,1997,1,1.6700435375240505,winter_mean_snow_density,,1,0
+Brazil,1998,2,0.9743910478826182,extreme_heat_episodes,mean_annual_rsn,1,1
+Brazil,1999,1,1.3437139461008913,,mean_temp,0,1
+Brazil,2000,6,3.7201758254873645,"anomaly_cold_days, annual_freeze_burden, mean_cold_area, heavy_rain_days, mean_annual_rsn",mean_temp,5,1
+Brazil,2001,1,1.5207757134150914,winter_mean_snow_density,,1,0
+Brazil,2002,1,0.9743910478826182,extreme_heat_episodes,,1,0
+Brazil,2003,1,1.1421441696410475,pm2.5_mean,,1,0
+Brazil,2008,1,1.3180076210449108,heavy_rain_days,,1,0
+Brazil,2009,1,1.2900792633970668,no2_mean,,1,0
+Brazil,2010,1,2.5046308619859072,max_temp,,1,0
+Brazil,2011,3,1.7338344552307756,"extreme_heat_episodes, annual_freeze_burden, mean_cold_area",,3,0
+Brazil,2012,4,2.3279586110425945,"extreme_heat_episodes, max_monthly_wind_speed","mean_annual_net_thermal, mean_sensible_heat",2,2
+Brazil,2013,1,2.4429604026539664,,min_temp,0,1
+Brazil,2014,1,0.9743910478826182,extreme_heat_episodes,,1,0
+Brazil,2015,7,2.082943021233583,"mean_temp, max_temp, extreme_heat_episodes, evap_deficit, mean_annual_net_solar","mean_annual_rsn, mean_sensible_heat",5,2
+Brazil,2016,2,1.3180076210449108,"extreme_heat_episodes, heavy_rain_days",,2,0
+Brazil,2017,4,2.7234512031835543,"extreme_heat_episodes, extreme_rain_days, max_monthly_wind_speed, mean_annual_wind_speed",,4,0
+Brazil,2018,1,0.9743910478826182,extreme_heat_episodes,,1,0
+Brazil,2019,6,2.318964993232977,"heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, ozone_mean",,6,0
+Brazil,2020,12,2.66666953877214,"anomaly_heat_days, extreme_rain_days, annual_dry_area, drought_episodes, mean_dry_area, evap_deficit, runoff_days, ozone_mean, mean_annual_net_solar","mean_soil_moisture, min_monthly_soil_moisture, mean_annual_net_thermal",9,3
+Brazil,2021,1,1.6478863787428515,extreme_rain_days,,1,0
+Brazil,2022,8,1.864969165121404,"extreme_rain_days, runoff_days, annual_total_evap, annual_potential_evap, mean_annual_net_thermal, mean_latent_heat, mean_sensible_heat",mean_annual_net_solar,7,1
+Brazil,2023,21,5.299932037796618,"mean_temp, anomaly_heat_days, heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, extreme_rain_days, max_year_precip, annual_dry_area, drought_episodes, mean_dry_area, max_runoff, annual_total_evap, annual_potential_evap, mean_annual_net_thermal, mean_latent_heat, mean_sensible_heat","mean_soil_moisture, min_monthly_soil_moisture, mean_annual_net_solar",18,3
+Burundi,1990,6,2.2850705500680477,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, no2_mean, mean_annual_rsn",min_temp,5,1
+Burundi,1991,6,2.2241813886274127,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, heavy_rain_days, mean_annual_rsn",mean_temp,5,1
+Burundi,1992,5,2.8744995359169403,"anomaly_cold_days, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,5,0
+Burundi,1993,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Burundi,1994,5,1.4610432460403502,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, runoff_days, mean_annual_rsn",,5,0
+Burundi,1995,5,1.669406007318711,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, max_monthly_wind_speed, mean_annual_rsn",,5,0
+Burundi,1996,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Burundi,1997,9,2.4578108461458665,"max_temp, heat_episodes, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, extreme_rain_days, drought_episodes, mean_annual_rsn",min_monthly_soil_moisture,8,1
+Burundi,1998,5,1.6872638033769771,"mean_temp, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,5,0
+Burundi,1999,5,2.0566502955723713,"anomaly_cold_days, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,5,0
+Burundi,2000,13,2.4245990053074786,"anomaly_heat_days, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, annual_dry_area, mean_dry_area, evap_deficit, mean_annual_wind_speed, mean_annual_rsn, mean_annual_net_solar","mean_soil_moisture, mean_annual_net_thermal, mean_sensible_heat",10,3
+Burundi,2001,7,2.5678581055232867,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, max_year_precip, max_runoff, mean_annual_rsn",mean_temp,6,1
+Burundi,2002,9,1.8889576034713076,"extreme_heat_episodes, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, drought_episodes, mean_annual_wind_speed, mean_annual_rsn","mean_soil_moisture, mean_sensible_heat",7,2
+Burundi,2003,9,1.5680376040136015,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, annual_dry_area, mean_dry_area, evap_deficit, mean_annual_rsn, mean_annual_net_solar",mean_annual_net_thermal,8,1
+Burundi,2004,6,1.7444177993224408,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, max_monthly_wind_speed, pressure_variability, mean_annual_rsn",,6,0
+Burundi,2005,11,2.5844503818353726,"max_temp, anomaly_heat_days, heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,11,0
+Burundi,2006,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Burundi,2007,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Burundi,2008,5,1.8270987274292563,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",min_temp,4,1
+Burundi,2009,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Burundi,2010,5,1.4748358687072165,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",min_monthly_soil_moisture,4,1
+Burundi,2011,7,1.4855385007420028,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, pm2.5_mean, mean_annual_rsn","annual_total_evap, mean_latent_heat",5,2
+Burundi,2012,5,1.8176105971578855,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, heavy_rain_days, mean_annual_rsn",,5,0
+Burundi,2013,5,1.688586979235381,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, pm2.5_mean, mean_annual_rsn",,5,0
+Burundi,2014,7,1.6055702580454472,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, max_runoff, mean_annual_rsn","annual_total_evap, mean_latent_heat",5,2
+Burundi,2015,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Burundi,2016,12,1.9758908687515437,"mean_temp, heat_episodes, extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, drought_episodes, mean_annual_rsn",,12,0
+Burundi,2017,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Burundi,2018,5,1.9203780632985241,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, pressure_variability, mean_annual_rsn",,5,0
+Burundi,2019,5,2.010760410639127,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, ozone_mean, mean_annual_rsn",,5,0
+Burundi,2020,6,2.2771432000827727,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, max_year_precip, ozone_mean, mean_annual_rsn",,6,0
+Burundi,2021,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Burundi,2022,10,1.7662208498555094,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, annual_total_evap, annual_potential_evap, mean_annual_rsn, mean_annual_net_thermal, mean_latent_heat, mean_sensible_heat",mean_annual_net_solar,9,1
+Burundi,2023,12,5.170147402114436,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, extreme_rain_days, runoff_days, annual_total_evap, annual_potential_evap, mean_annual_rsn, mean_annual_net_thermal, mean_latent_heat, mean_sensible_heat",mean_annual_net_solar,11,1
+Canada,1990,6,2.1720937423635935,"heat_episodes, extreme_heat_episodes, pm2.5_mean, no2_mean","mean_temp, mean_soil_moisture",4,2
+Canada,1991,5,2.2196966689048208,"heat_episodes, extreme_heat_episodes, anomaly_cold_days, max_year_precip, pm2.5_mean",,5,0
+Canada,1992,7,2.624128486124936,"heat_episodes, extreme_heat_episodes, annual_freeze_burden, mean_cold_area, annual_dry_area, mean_dry_area, mean_annual_rsn",,7,0
+Canada,1993,4,2.4231366360253417,"heat_episodes, extreme_heat_episodes, drought_episodes, mean_annual_wind_speed",,4,0
+Canada,1994,3,0.4450628255340709,"heat_episodes, extreme_heat_episodes, mean_annual_net_solar",,3,0
+Canada,1995,4,2.62706397668094,"heat_episodes, extreme_heat_episodes, drought_episodes",mean_sensible_heat,3,1
+Canada,1996,2,0.0,"heat_episodes, extreme_heat_episodes",,2,0
+Canada,1997,3,2.478822017861714,"heat_episodes, extreme_heat_episodes, extreme_rain_days",,3,0
+Canada,1998,12,2.358530296500743,"heat_episodes, extreme_heat_episodes, annual_dry_area, mean_dry_area, evap_deficit, mean_annual_net_solar","min_monthly_soil_moisture, annual_total_evap, mean_annual_rsn, mean_annual_net_thermal, mean_latent_heat, mean_sensible_heat",6,6
+Canada,1999,3,2.8955279164488306,"heat_episodes, extreme_heat_episodes, heavy_rain_days",,3,0
+Canada,2000,2,0.0,"heat_episodes, extreme_heat_episodes",,2,0
+Canada,2001,2,0.0,"heat_episodes, extreme_heat_episodes",,2,0
+Canada,2002,3,1.998251364539989,"heat_episodes, extreme_heat_episodes, ozone_mean",,3,0
+Canada,2003,2,0.0,"heat_episodes, extreme_heat_episodes",,2,0
+Canada,2004,5,2.3028372225197686,"heat_episodes, extreme_heat_episodes, anomaly_cold_days, mean_annual_rsn",mean_temp,4,1
+Canada,2005,2,0.0,"heat_episodes, extreme_heat_episodes",,2,0
+Canada,2006,6,2.0945616171197594,"heat_episodes, extreme_heat_episodes, winter_mean_snow_density, heavy_rain_days, ozone_mean, pressure_variability",,6,0
+Canada,2007,3,1.8152853115671586,"max_temp, heat_episodes, extreme_heat_episodes",,3,0
+Canada,2008,3,2.401731074080131,"heat_episodes, extreme_heat_episodes",min_temp,2,1
+Canada,2009,3,1.9666743579374488,"heat_episodes, extreme_heat_episodes, max_runoff",,3,0
+Canada,2010,8,2.719024895581162,"mean_temp, heat_episodes, extreme_heat_episodes, winter_mean_snow_density, max_year_precip, evap_deficit","annual_total_evap, mean_latent_heat",6,2
+Canada,2011,5,2.577322213022782,"heat_episodes, extreme_heat_episodes, runoff_days, pressure_variability",mean_annual_net_thermal,4,1
+Canada,2012,3,1.3260678573881615,"heat_episodes, extreme_heat_episodes, heavy_rain_days",,3,0
+Canada,2013,2,0.0,"heat_episodes, extreme_heat_episodes",,2,0
+Canada,2014,2,0.0,"heat_episodes, extreme_heat_episodes",,2,0
+Canada,2015,2,0.0,"heat_episodes, extreme_heat_episodes",,2,0
+Canada,2016,2,0.0,"heat_episodes, extreme_heat_episodes",,2,0
+Canada,2017,4,2.022757159571773,"anomaly_heat_days, heat_episodes, extreme_heat_episodes, max_runoff",,4,0
+Canada,2018,10,2.429330324062479,"heat_episodes, extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, annual_freeze_burden, mean_cold_area, max_monthly_wind_speed, mean_annual_wind_speed",,10,0
+Canada,2019,2,0.0,"heat_episodes, extreme_heat_episodes",,2,0
+Canada,2020,4,1.9540862543062834,"heat_episodes, extreme_heat_episodes, mean_sensible_heat",min_temp,3,1
+Canada,2021,10,3.466627009009279,"max_temp, anomaly_heat_days, heat_episodes, extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, extreme_rain_days, runoff_days",,10,0
+Canada,2022,8,1.762626625294145,"heat_episodes, extreme_heat_episodes, max_monthly_wind_speed, annual_total_evap, annual_potential_evap, mean_annual_net_thermal, mean_latent_heat",mean_annual_net_solar,7,1
+Canada,2023,12,5.5438640587564985,"mean_temp, heat_episodes, extreme_heat_episodes, annual_total_evap, annual_potential_evap, mean_annual_net_thermal, mean_latent_heat, mean_sensible_heat","mean_soil_moisture, min_monthly_soil_moisture, mean_annual_rsn, mean_annual_net_solar",8,4
+Central African Rep.,1990,5,1.7041863489545008,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, heavy_rain_days, mean_annual_rsn",,5,0
+Central African Rep.,1991,9,1.436272062773249,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, annual_potential_evap, mean_annual_rsn, mean_annual_net_thermal, mean_sensible_heat","annual_total_evap, mean_latent_heat",7,2
+Central African Rep.,1992,8,2.3822839932052227,"anomaly_cold_days, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, max_year_precip, mean_annual_rsn","mean_temp, min_temp",6,2
+Central African Rep.,1993,8,1.5228717038459525,"extreme_heat_episodes, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn","mean_temp, annual_total_evap, mean_latent_heat",5,3
+Central African Rep.,1994,6,2.708047003460377,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, heavy_rain_days, runoff_days, mean_annual_rsn",,6,0
+Central African Rep.,1995,5,1.4997320675331747,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, runoff_days, mean_annual_rsn",,5,0
+Central African Rep.,1996,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Central African Rep.,1997,7,2.6814553760007107,"extreme_heat_episodes, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, max_year_precip, max_monthly_wind_speed, mean_annual_rsn",,7,0
+Central African Rep.,1998,6,1.9464428942943885,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, runoff_days, max_runoff, mean_annual_rsn",,6,0
+Central African Rep.,1999,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Central African Rep.,2000,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Central African Rep.,2001,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Central African Rep.,2002,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Central African Rep.,2003,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Central African Rep.,2004,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Central African Rep.,2005,7,1.959486760743377,"max_temp, anomaly_heat_days, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, pressure_variability, mean_annual_rsn",,7,0
+Central African Rep.,2006,5,1.4529998092215373,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, pressure_variability, mean_annual_rsn",,5,0
+Central African Rep.,2007,5,1.9589154480926676,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, max_monthly_wind_speed, mean_annual_rsn",,5,0
+Central African Rep.,2008,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Central African Rep.,2009,7,1.388183123007009,"heat_episodes, mean_caution_area, mean_extreme_area, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,7,0
+Central African Rep.,2010,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Central African Rep.,2011,6,1.7784943092692445,"extreme_heat_episodes, anomaly_cold_days, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,6,0
+Central African Rep.,2012,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Central African Rep.,2013,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Central African Rep.,2014,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Central African Rep.,2015,12,1.7641524453956494,"heat_episodes, extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn, mean_annual_net_solar",min_temp,11,1
+Central African Rep.,2016,8,2.5922159679089596,"anomaly_heat_days, extreme_heat_episodes, extreme_area, caution_area, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,8,0
+Central African Rep.,2017,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Central African Rep.,2018,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Central African Rep.,2019,5,1.7496218674414201,"anomaly_heat_days, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,5,0
+Central African Rep.,2020,11,2.7543138548098343,"max_temp, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, extreme_rain_days, drought_episodes, evap_deficit, mean_annual_wind_speed, mean_annual_rsn","mean_annual_net_thermal, mean_sensible_heat",9,2
+Central African Rep.,2021,15,2.058979669500879,"mean_temp, extreme_heat_episodes, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, annual_dry_area, drought_episodes, mean_dry_area, evap_deficit, mean_annual_rsn, mean_annual_net_solar","mean_soil_moisture, min_monthly_soil_moisture, mean_annual_net_thermal, mean_sensible_heat",11,4
+Central African Rep.,2022,15,2.7281783672917372,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, extreme_rain_days, annual_dry_area, drought_episodes, mean_dry_area, max_runoff, mean_annual_wind_speed, annual_total_evap, mean_annual_rsn, mean_latent_heat","mean_soil_moisture, min_monthly_soil_moisture, mean_annual_net_solar",12,3
+Central African Rep.,2023,11,5.3086352867293325,"mean_temp, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, annual_total_evap, annual_potential_evap, mean_annual_rsn, mean_annual_net_thermal, mean_latent_heat, mean_sensible_heat",mean_annual_net_solar,10,1
+Chad,1990,1,3.036166497407774,no2_mean,,1,0
+Chad,1992,5,2.6069541955098168,"anomaly_cold_days, annual_freeze_burden, mean_cold_area","mean_temp, min_temp",3,2
+Chad,1993,5,4.982929783410642,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",min_temp,4,1
+Chad,1994,3,2.2081352623439305,"heavy_rain_days, runoff_days",mean_temp,2,1
+Chad,1995,3,1.829810693361817,max_year_precip,"annual_total_evap, mean_latent_heat",1,2
+Chad,1996,2,2.290678040531654,"extreme_heat_episodes, heavy_rain_days",,2,0
+Chad,1997,1,1.9647909060768893,max_monthly_wind_speed,,1,0
+Chad,1998,3,2.1170983187345014,"anomaly_heat_days, runoff_days, max_runoff",,3,0
+Chad,1999,3,1.7128876031029103,mean_sensible_heat,"annual_total_evap, mean_latent_heat",1,2
+Chad,2000,3,1.7673177371036712,"mean_annual_wind_speed, mean_annual_rsn, mean_annual_net_solar",,3,0
+Chad,2002,1,1.5625930078411026,pressure_variability,,1,0
+Chad,2004,1,0.4639748363189341,,mean_annual_net_thermal,0,1
+Chad,2006,1,0.4457467537610288,,mean_annual_rsn,0,1
+Chad,2008,1,1.6806900637623474,winter_mean_snow_density,,1,0
+Chad,2009,2,1.6074933617765994,extreme_heat_episodes,mean_annual_rsn,1,1
+Chad,2010,9,3.380960895965883,"mean_temp, max_temp, heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, extreme_rain_days, max_year_precip",,9,0
+Chad,2012,1,0.4457467537610288,,mean_annual_rsn,0,1
+Chad,2013,6,1.648204612232374,"max_temp, heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area",,6,0
+Chad,2014,1,0.4457467537610288,,mean_annual_rsn,0,1
+Chad,2015,7,3.4390909246340726,"anomaly_cold_days, evap_deficit, pm2.5_mean, max_monthly_wind_speed, pressure_variability","mean_annual_rsn, mean_sensible_heat",5,2
+Chad,2016,1,2.0933105233468154,pm2.5_mean,,1,0
+Chad,2017,1,0.4457467537610288,,mean_annual_rsn,0,1
+Chad,2018,1,0.4457467537610288,,mean_annual_rsn,0,1
+Chad,2019,3,1.745115779715516,"heavy_rain_days, ozone_mean",mean_annual_rsn,2,1
+Chad,2020,1,1.8876054953228243,ozone_mean,,1,0
+Chad,2021,11,2.307341035893598,"annual_dry_area, drought_episodes, mean_dry_area, evap_deficit, mean_annual_wind_speed, mean_annual_net_solar","mean_soil_moisture, min_monthly_soil_moisture, mean_annual_rsn, mean_annual_net_thermal, mean_sensible_heat",6,5
+Chad,2022,8,2.1602468700905946,"extreme_rain_days, max_runoff, annual_total_evap, annual_potential_evap, mean_annual_net_thermal, mean_latent_heat","min_monthly_soil_moisture, mean_annual_net_solar",6,2
+Chad,2023,13,5.376256628197655,"mean_temp, anomaly_heat_days, annual_dry_area, drought_episodes, mean_dry_area, annual_total_evap, annual_potential_evap, mean_annual_net_thermal, mean_latent_heat, mean_sensible_heat","mean_soil_moisture, mean_annual_rsn, mean_annual_net_solar",10,3
+Colombia,1990,2,2.6952644143504694,"winter_mean_snow_density, pm2.5_mean",,2,0
+Colombia,1991,2,1.968977384693082,"pm2.5_mean, max_monthly_wind_speed",,2,0
+Colombia,1995,2,1.8017038202014342,no2_mean,min_monthly_soil_moisture,1,1
+Colombia,1996,1,1.6419739435729512,heavy_rain_days,,1,0
+Colombia,1997,1,2.259818635057878,mean_annual_wind_speed,,1,0
+Colombia,1998,4,2.637436298085262,"extreme_rain_days, max_year_precip, runoff_days, max_runoff",,4,0
+Colombia,1999,1,1.956058107875682,,mean_temp,0,1
+Colombia,2000,8,2.637436298085262,"max_temp, anomaly_cold_days, heavy_rain_days, extreme_rain_days, runoff_days, mean_annual_wind_speed, mean_annual_rsn",mean_temp,7,1
+Colombia,2001,2,2.736833110126998,"ozone_mean, mean_annual_rsn",,2,0
+Colombia,2002,3,2.675485427386298,"max_year_precip, max_runoff, ozone_mean",,3,0
+Colombia,2003,1,1.8437439523901313,ozone_mean,,1,0
+Colombia,2004,1,1.6419739435729512,heavy_rain_days,,1,0
+Colombia,2005,2,0.4483421985374688,,"annual_total_evap, mean_latent_heat",0,2
+Colombia,2007,2,3.9407374645751116,drought_episodes,min_monthly_soil_moisture,1,1
+Colombia,2008,1,1.6419739435729512,heavy_rain_days,,1,0
+Colombia,2010,1,1.9356717969517905,pressure_variability,,1,0
+Colombia,2011,2,2.531700754553036,winter_mean_snow_density,min_temp,1,1
+Colombia,2012,1,1.6419739435729512,heavy_rain_days,,1,0
+Colombia,2015,2,2.576346457989439,"anomaly_heat_days, heat_episodes",,2,0
+Colombia,2016,2,1.7794528100439195,"heavy_rain_days, pressure_variability",,2,0
+Colombia,2017,3,0.5503833484615008,mean_annual_net_solar,"annual_total_evap, mean_latent_heat",1,2
+Colombia,2018,1,2.030391339097765,max_monthly_wind_speed,,1,0
+Colombia,2019,3,2.0386191432464007,anomaly_heat_days,"mean_annual_net_thermal, mean_sensible_heat",1,2
+Colombia,2020,15,3.9407374645751116,"mean_temp, extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, heavy_rain_days, annual_dry_area, drought_episodes, mean_dry_area, evap_deficit, mean_annual_net_solar","mean_soil_moisture, mean_annual_net_thermal, mean_sensible_heat",12,3
+Colombia,2021,1,1.009792949198347,evap_deficit,,1,0
+Colombia,2022,11,2.503498338285826,"max_temp, annual_freeze_burden, mean_cold_area, annual_total_evap, annual_potential_evap, mean_annual_net_thermal, mean_latent_heat, mean_sensible_heat","min_temp, mean_annual_rsn, mean_annual_net_solar",8,3
+Colombia,2023,20,5.295172127311713,"mean_temp, heat_episodes, extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, anomaly_cold_days, annual_freeze_burden, mean_cold_area, annual_dry_area, mean_dry_area, annual_total_evap, annual_potential_evap, mean_annual_net_thermal, mean_latent_heat, mean_sensible_heat","mean_soil_moisture, mean_annual_rsn, mean_annual_net_solar",17,3
+Cuba,1990,6,2.1022838303172815,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, max_year_precip, mean_annual_wind_speed, mean_annual_rsn",,6,0
+Cuba,1991,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Cuba,1992,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Cuba,1993,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Cuba,1994,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Cuba,1995,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Cuba,1996,7,2.11958286527102,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, max_monthly_wind_speed, mean_annual_rsn","mean_temp, min_temp",5,2
+Cuba,1997,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Cuba,1998,7,3.9476612529907293,"max_temp, anomaly_heat_days, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, ozone_mean, mean_annual_rsn",,7,0
+Cuba,1999,5,1.9641523414872062,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, ozone_mean, mean_annual_rsn",,5,0
+Cuba,2000,12,2.044038726012027,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, annual_dry_area, mean_dry_area, evap_deficit, pm2.5_mean, mean_annual_rsn, mean_annual_net_solar","mean_soil_moisture, mean_annual_net_thermal, mean_sensible_heat",9,3
+Cuba,2001,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Cuba,2002,7,2.2583846712597273,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, max_year_precip, max_runoff, pm2.5_mean, mean_annual_rsn",,7,0
+Cuba,2003,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Cuba,2004,13,2.904450709079775,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, annual_dry_area, mean_dry_area, evap_deficit, mean_annual_wind_speed, annual_total_evap, mean_annual_rsn, mean_latent_heat","mean_soil_moisture, mean_annual_net_thermal, mean_sensible_heat",10,3
+Cuba,2005,9,2.154142617403324,"anomaly_cold_days, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, extreme_rain_days, runoff_days, pressure_variability, mean_annual_rsn",min_monthly_soil_moisture,8,1
+Cuba,2006,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Cuba,2007,10,2.9699311552120697,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, heavy_rain_days, runoff_days, no2_mean, mean_annual_rsn, mean_sensible_heat","annual_total_evap, mean_latent_heat",8,2
+Cuba,2008,5,1.689026750878313,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, pressure_variability, mean_annual_rsn",,5,0
+Cuba,2009,5,0.39198275529486404,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn, mean_annual_net_solar",,5,0
+Cuba,2010,8,3.9903059560999967,"anomaly_cold_days, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, drought_episodes, mean_annual_rsn","mean_temp, min_temp",6,2
+Cuba,2011,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Cuba,2012,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Cuba,2013,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Cuba,2014,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Cuba,2015,6,1.749327598004081,"mean_temp, anomaly_heat_days, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,6,0
+Cuba,2016,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Cuba,2017,7,2.6096310982285216,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, heavy_rain_days, extreme_rain_days, max_runoff, mean_annual_rsn",,7,0
+Cuba,2018,7,2.2757669433425067,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, max_monthly_wind_speed, mean_annual_rsn","annual_total_evap, mean_latent_heat",5,2
+Cuba,2019,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Cuba,2020,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Cuba,2021,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Cuba,2022,14,4.6155799329688785,"max_temp, heat_episodes, extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, annual_potential_evap, mean_annual_rsn, mean_annual_net_thermal",mean_annual_net_solar,13,1
+Cuba,2023,19,5.4145161213803235,"mean_temp, heat_episodes, extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, drought_episodes, annual_total_evap, annual_potential_evap, mean_annual_rsn, mean_annual_net_thermal, mean_latent_heat, mean_sensible_heat","min_monthly_soil_moisture, mean_annual_net_solar",17,2
+Egypt,1991,4,2.3304324757658996,"max_temp, heavy_rain_days","annual_total_evap, mean_latent_heat",2,2
+Egypt,1992,8,4.91197770998713,"anomaly_cold_days, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, runoff_days, mean_annual_rsn","mean_temp, min_temp",6,2
+Egypt,1993,2,1.4966153710628813,"anomaly_cold_days, ozone_mean",,2,0
+Egypt,1994,2,2.508189237839147,"extreme_rain_days, max_runoff",,2,0
+Egypt,1996,1,1.7760663739584095,runoff_days,,1,0
+Egypt,1997,1,1.5713133732213123,,min_temp,0,1
+Egypt,1999,2,2.0236337358010767,max_monthly_wind_speed,mean_annual_rsn,1,1
+Egypt,2000,6,2.0629737802631998,"max_temp, winter_mean_snow_density, runoff_days, mean_annual_wind_speed, mean_annual_rsn",mean_temp,5,1
+Egypt,2001,6,1.8384488243675392,"annual_dry_area, drought_episodes, mean_dry_area, mean_annual_net_solar","min_monthly_soil_moisture, mean_annual_rsn",4,2
+Egypt,2003,1,2.9022752574300226,pm2.5_mean,,1,0
+Egypt,2004,3,2.2011195212567514,"runoff_days, pm2.5_mean",mean_annual_net_thermal,2,1
+Egypt,2007,1,1.3120044627920078,ozone_mean,,1,0
+Egypt,2008,4,2.0303748905273213,"annual_freeze_burden, mean_cold_area, runoff_days, pressure_variability",,4,0
+Egypt,2009,6,1.6410556979215043,"drought_episodes, mean_dry_area, annual_total_evap, mean_latent_heat","mean_soil_moisture, min_monthly_soil_moisture",4,2
+Egypt,2010,10,2.7972437657905367,"mean_temp, heat_episodes, extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, evap_deficit","mean_soil_moisture, mean_annual_net_thermal",8,2
+Egypt,2011,1,0.42532328315063966,,mean_sensible_heat,0,1
+Egypt,2012,2,1.7760663739584095,"annual_dry_area, runoff_days",,2,0
+Egypt,2013,2,1.9344916782782584,"max_monthly_wind_speed, mean_annual_net_solar",,2,0
+Egypt,2015,2,2.763409001318034,heavy_rain_days,mean_sensible_heat,1,1
+Egypt,2016,1,1.7760663739584095,runoff_days,,1,0
+Egypt,2017,2,2.4882529345391755,"anomaly_heat_days, no2_mean",,2,0
+Egypt,2018,8,2.913830322253469,"mean_temp, extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, max_year_precip, max_runoff",,8,0
+Egypt,2020,6,2.83700559905761,"extreme_rain_days, max_year_precip, runoff_days, pressure_variability","annual_total_evap, mean_latent_heat",4,2
+Egypt,2021,1,0.6658613254781308,evap_deficit,,1,0
+Egypt,2022,5,1.7396947469794928,"mean_annual_wind_speed, annual_potential_evap, mean_annual_net_thermal, mean_sensible_heat",mean_annual_net_solar,4,1
+Egypt,2023,8,5.520042172383198,"anomaly_heat_days, heat_episodes, annual_total_evap, annual_potential_evap, mean_annual_net_thermal, mean_latent_heat, mean_sensible_heat",mean_annual_net_solar,7,1
+Finland,1990,3,1.8073774813299253,"pm2.5_mean, no2_mean",mean_annual_rsn,2,1
+Finland,1991,1,1.3330128438865456,pm2.5_mean,,1,0
+Finland,1992,4,2.2144797424488707,"winter_mean_snow_density, max_monthly_wind_speed, mean_sensible_heat",min_monthly_soil_moisture,3,1
+Finland,1993,5,2.572728355649811,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, pressure_variability, mean_annual_rsn",,5,0
+Finland,1995,1,1.7119942000852195,mean_annual_rsn,,1,0
+Finland,1996,2,2.3715751074756715,"annual_dry_area, drought_episodes",,2,0
+Finland,1997,5,2.4956985888509258,"anomaly_heat_days, annual_freeze_burden, mean_cold_area, runoff_days",mean_annual_net_thermal,4,1
+Finland,1998,7,2.2358500170984175,"anomaly_cold_days, annual_total_evap, annual_potential_evap, mean_latent_heat","mean_temp, min_temp, mean_annual_net_solar",4,3
+Finland,1999,2,3.1067454267009884,anomaly_cold_days,min_temp,1,1
+Finland,2000,1,2.358733447639787,runoff_days,,1,0
+Finland,2001,1,2.1150599419339002,,mean_annual_rsn,0,1
+Finland,2002,7,2.2442616377077553,"annual_dry_area, drought_episodes, mean_dry_area, pressure_variability, mean_annual_net_solar","mean_soil_moisture, mean_annual_net_thermal",5,2
+Finland,2003,1,1.3092096557937862,ozone_mean,,1,0
+Finland,2004,2,3.267503784623351,"heavy_rain_days, max_year_precip",,2,0
+Finland,2005,2,1.8684008264622525,"ozone_mean, max_monthly_wind_speed",,2,0
+Finland,2006,4,3.022558199104067,"anomaly_heat_days, evap_deficit","mean_soil_moisture, min_monthly_soil_moisture",2,2
+Finland,2009,1,1.6807645927546486,,mean_sensible_heat,0,1
+Finland,2010,2,2.4618848031880898,max_temp,mean_temp,1,1
+Finland,2011,3,1.037473935015219,heat_episodes,"annual_total_evap, mean_latent_heat",1,2
+Finland,2014,2,2.024231857744245,"heat_episodes, extreme_heat_episodes",,2,0
+Finland,2015,3,2.093021565120249,"mean_temp, mean_annual_wind_speed, mean_sensible_heat",,3,0
+Finland,2017,1,1.7776054382989361,max_runoff,,1,0
+Finland,2018,11,5.454557344259454,"heat_episodes, extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, mean_dry_area, evap_deficit, max_runoff, mean_annual_net_solar",mean_sensible_heat,10,1
+Finland,2020,6,2.496469072465033,"mean_temp, heavy_rain_days, max_year_precip, mean_annual_wind_speed","annual_total_evap, mean_latent_heat",4,2
+Finland,2021,8,2.2863733329944695,"max_temp, heat_episodes, extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, extreme_rain_days",,8,0
+Finland,2022,2,0.8719616858802922,"heat_episodes, mean_annual_net_thermal",,2,0
+Finland,2023,7,4.809508724487032,"heavy_rain_days, extreme_rain_days, annual_total_evap, annual_potential_evap, mean_annual_net_thermal, mean_latent_heat",mean_annual_net_solar,6,1
+Gabon,1990,4,0.9851843661437781,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Gabon,1991,4,0.9851843661437781,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Gabon,1992,8,2.5098983647694277,"anomaly_cold_days, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_wind_speed, pressure_variability, mean_annual_rsn",mean_temp,7,1
+Gabon,1993,4,0.9851843661437781,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Gabon,1994,7,1.5110598547355982,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, annual_potential_evap, mean_annual_rsn, mean_sensible_heat",mean_temp,6,1
+Gabon,1995,4,0.9851843661437781,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Gabon,1996,9,3.1781587946563854,"anomaly_cold_days, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, drought_episodes, max_monthly_wind_speed, mean_annual_rsn","min_temp, min_monthly_soil_moisture",7,2
+Gabon,1997,4,0.9851843661437781,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Gabon,1998,6,0.9851843661437781,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn","annual_total_evap, mean_latent_heat",4,2
+Gabon,1999,6,2.4110492249042097,"max_temp, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, heavy_rain_days, mean_annual_rsn",,6,0
+Gabon,2000,6,3.3884183034879953,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, max_year_precip, max_runoff, mean_annual_rsn",,6,0
+Gabon,2001,5,1.2500779587652688,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",mean_sensible_heat,4,1
+Gabon,2002,4,0.9851843661437781,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Gabon,2003,6,0.9851843661437781,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn","annual_total_evap, mean_latent_heat",4,2
+Gabon,2004,4,0.9851843661437781,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Gabon,2005,6,1.909925011664098,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, evap_deficit, pressure_variability, mean_annual_rsn",,6,0
+Gabon,2006,4,0.9851843661437781,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Gabon,2007,8,1.953886903700526,"anomaly_heat_days, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, evap_deficit, mean_annual_rsn, mean_annual_net_solar",mean_annual_net_thermal,7,1
+Gabon,2008,7,1.164349340916752,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn, mean_annual_net_solar","mean_annual_net_thermal, mean_sensible_heat",5,2
+Gabon,2009,4,0.9851843661437781,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Gabon,2010,4,0.9851843661437781,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Gabon,2011,4,0.9851843661437781,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Gabon,2012,6,1.9632464606884175,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, max_monthly_wind_speed, mean_annual_rsn",min_temp,5,1
+Gabon,2013,5,1.9437442873556525,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, pm2.5_mean, mean_annual_rsn",,5,0
+Gabon,2014,4,0.9851843661437781,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Gabon,2015,5,1.6065065225403499,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_wind_speed, mean_annual_rsn",,5,0
+Gabon,2016,11,3.504832150217675,"mean_temp, anomaly_heat_days, extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,11,0
+Gabon,2017,5,2.1718191730153853,"max_temp, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,5,0
+Gabon,2018,4,0.9851843661437781,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Gabon,2019,8,2.694252154213192,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, extreme_rain_days, runoff_days, ozone_mean, no2_mean, mean_annual_rsn",,8,0
+Gabon,2020,7,2.824372286660988,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, extreme_rain_days, runoff_days, ozone_mean, mean_annual_rsn",,7,0
+Gabon,2021,8,1.8182510143950716,"heat_episodes, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, heavy_rain_days, max_year_precip, max_runoff, mean_annual_rsn",,8,0
+Gabon,2022,14,2.4429694370499497,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, annual_dry_area, drought_episodes, mean_dry_area, pm2.5_mean, annual_total_evap, mean_annual_rsn, mean_annual_net_thermal, mean_latent_heat","mean_soil_moisture, min_monthly_soil_moisture, mean_annual_net_solar",11,3
+Gabon,2023,20,5.3583488110431485,"mean_temp, heat_episodes, extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, annual_dry_area, mean_dry_area, annual_total_evap, annual_potential_evap, mean_annual_rsn, mean_annual_net_thermal, mean_latent_heat, mean_sensible_heat","mean_soil_moisture, mean_annual_net_solar",18,2
+Germany,1990,3,2.6802900320115524,"anomaly_cold_days, pm2.5_mean, no2_mean",,3,0
+Germany,1991,2,1.4713793489110072,"anomaly_cold_days, pm2.5_mean",,2,0
+Germany,1993,1,1.7124323969483304,pressure_variability,,1,0
+Germany,1994,2,2.184736841435477,"anomaly_heat_days, heat_episodes",,2,0
+Germany,1995,1,1.6547889934253515,mean_annual_rsn,,1,0
+Germany,1996,6,2.8399509620823093,"annual_freeze_burden, mean_cold_area, annual_total_evap, annual_potential_evap, mean_latent_heat",mean_temp,5,1
+Germany,1998,4,1.9673062550666824,"mean_annual_wind_speed, mean_annual_net_thermal, mean_sensible_heat",mean_annual_net_solar,3,1
+Germany,1999,3,2.496357961123503,"max_year_precip, runoff_days, max_runoff",,3,0
+Germany,2000,1,2.135182766748188,runoff_days,,1,0
+Germany,2002,4,2.727695980188139,"heavy_rain_days, extreme_rain_days, max_year_precip, mean_sensible_heat",,4,0
+Germany,2003,18,2.9921395871833707,"anomaly_heat_days, heat_episodes, extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, annual_dry_area, drought_episodes, mean_dry_area, evap_deficit, ozone_mean, mean_annual_net_solar","min_temp, mean_soil_moisture, min_monthly_soil_moisture, mean_annual_net_thermal, mean_sensible_heat",13,5
+Germany,2004,1,2.202408834710587,ozone_mean,,1,0
+Germany,2005,1,1.5746616957482866,anomaly_cold_days,,1,0
+Germany,2007,3,1.7126889081826204,max_monthly_wind_speed,"annual_total_evap, mean_latent_heat",1,2
+Germany,2010,5,3.231639862437425,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",mean_temp,4,1
+Germany,2011,2,2.157059856277891,"winter_mean_snow_density, drought_episodes",,2,0
+Germany,2012,1,2.0156312894148516,pressure_variability,,1,0
+Germany,2013,1,2.0623778809379636,max_runoff,,1,0
+Germany,2014,3,3.251097024869237,,"annual_total_evap, mean_annual_rsn, mean_latent_heat",0,3
+Germany,2015,1,1.6784782391756312,max_temp,,1,0
+Germany,2017,1,2.1788775074618036,,min_temp,0,1
+Germany,2018,15,3.4197263857427385,"mean_temp, heat_episodes, extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, annual_dry_area, mean_dry_area, evap_deficit, mean_annual_net_solar","mean_soil_moisture, min_monthly_soil_moisture, mean_annual_net_thermal, mean_sensible_heat",11,4
+Germany,2019,1,2.118261856047697,max_temp,,1,0
+Germany,2020,2,1.8213079469187587,max_monthly_wind_speed,mean_annual_rsn,1,1
+Germany,2021,1,2.132756208121249,extreme_rain_days,,1,0
+Germany,2023,8,5.008303375907277,"mean_temp, heavy_rain_days, mean_annual_wind_speed, annual_total_evap, annual_potential_evap, mean_annual_net_thermal, mean_latent_heat",mean_annual_net_solar,7,1
+Honduras,1990,5,1.4546871575007272,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, pm2.5_mean, mean_annual_rsn",,5,0
+Honduras,1991,5,1.2497804216953414,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, pm2.5_mean, mean_annual_rsn",,5,0
+Honduras,1992,6,1.2497804216953414,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, pm2.5_mean, mean_annual_rsn",mean_sensible_heat,5,1
+Honduras,1993,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Honduras,1994,11,2.345440495356259,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, annual_dry_area, mean_dry_area, evap_deficit, mean_annual_rsn, mean_annual_net_solar","mean_soil_moisture, mean_annual_net_thermal, mean_sensible_heat",8,3
+Honduras,1995,5,2.1913399019307427,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, pressure_variability, mean_annual_rsn",,5,0
+Honduras,1996,6,2.8880269559341136,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn","mean_temp, min_temp",4,2
+Honduras,1997,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Honduras,1998,9,3.256673191329836,"max_temp, anomaly_heat_days, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, max_year_precip, drought_episodes, max_runoff, mean_annual_rsn",,9,0
+Honduras,1999,8,2.406328568716321,"anomaly_cold_days, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, extreme_rain_days, runoff_days, mean_annual_rsn",mean_temp,7,1
+Honduras,2000,7,2.178431155523132,"anomaly_cold_days, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, pm2.5_mean, mean_annual_wind_speed, mean_annual_rsn",,7,0
+Honduras,2001,6,2.0824439847431133,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, ozone_mean, max_monthly_wind_speed, mean_annual_rsn",,6,0
+Honduras,2002,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Honduras,2003,5,1.7168878306273543,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, ozone_mean, mean_annual_rsn",,5,0
+Honduras,2004,5,1.7985739360440764,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, max_monthly_wind_speed, mean_annual_rsn",,5,0
+Honduras,2005,6,1.9479911970349637,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, heavy_rain_days, pressure_variability, mean_annual_rsn",,6,0
+Honduras,2006,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Honduras,2007,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Honduras,2008,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Honduras,2009,6,1.6080536757827237,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, no2_mean, mean_annual_rsn",min_temp,5,1
+Honduras,2010,8,2.1594000876565422,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, heavy_rain_days, extreme_rain_days, drought_episodes, runoff_days, mean_annual_rsn",,8,0
+Honduras,2011,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Honduras,2012,6,0.5851056431595105,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn","annual_total_evap, mean_latent_heat",4,2
+Honduras,2013,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Honduras,2014,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Honduras,2015,5,1.8448759613454773,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_wind_speed, mean_annual_rsn",,5,0
+Honduras,2016,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Honduras,2017,6,3.0936187898589234,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, max_year_precip, max_runoff, mean_annual_rsn",,6,0
+Honduras,2018,6,0.5330739652755196,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn","annual_total_evap, mean_latent_heat",4,2
+Honduras,2019,17,2.5434876061348586,"mean_temp, heat_episodes, extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, annual_dry_area, mean_dry_area, evap_deficit, mean_annual_rsn, mean_annual_net_solar","mean_soil_moisture, mean_annual_net_thermal",15,2
+Honduras,2020,8,2.333865749206637,"anomaly_heat_days, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, extreme_rain_days, drought_episodes, mean_annual_rsn",min_monthly_soil_moisture,7,1
+Honduras,2021,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Honduras,2022,10,1.743611025738853,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, annual_total_evap, annual_potential_evap, mean_annual_rsn, mean_annual_net_thermal, mean_latent_heat, mean_sensible_heat",mean_annual_net_solar,9,1
+Honduras,2023,19,5.3016716242082165,"mean_temp, max_temp, heat_episodes, extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, annual_total_evap, annual_potential_evap, mean_annual_rsn, mean_annual_net_thermal, mean_latent_heat, mean_sensible_heat","min_monthly_soil_moisture, mean_annual_net_solar",17,2
+Japan,1990,5,1.637997638700576,"annual_dry_area, drought_episodes, mean_dry_area, pressure_variability",min_monthly_soil_moisture,4,1
+Japan,1991,1,1.5255795972084953,heavy_rain_days,,1,0
+Japan,1993,2,2.382123551241154,runoff_days,mean_temp,1,1
+Japan,1994,18,4.1437749665562,"max_temp, anomaly_heat_days, heat_episodes, extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, annual_dry_area, mean_dry_area, evap_deficit, max_monthly_wind_speed, pressure_variability, mean_annual_net_solar","mean_soil_moisture, min_monthly_soil_moisture, mean_annual_net_thermal, mean_sensible_heat",14,4
+Japan,1995,1,1.6953447824342018,mean_annual_wind_speed,,1,0
+Japan,1996,3,2.109293530201364,"annual_freeze_burden, mean_cold_area",mean_temp,2,1
+Japan,1997,1,1.601058764594875,extreme_rain_days,,1,0
+Japan,1998,5,2.8260272473406296,"anomaly_cold_days, heavy_rain_days, extreme_rain_days, runoff_days",min_temp,4,1
+Japan,2001,1,3.459745386416374,anomaly_cold_days,,1,0
+Japan,2003,3,1.2408533071116714,"annual_total_evap, annual_potential_evap, mean_latent_heat",,3,0
+Japan,2004,2,1.1446708679490647,,"annual_total_evap, mean_latent_heat",0,2
+Japan,2005,8,2.213515543967178,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, max_year_precip, max_runoff, no2_mean, mean_annual_rsn",mean_soil_moisture,7,1
+Japan,2007,5,2.7034203954488207,"evap_deficit, pm2.5_mean, ozone_mean, mean_annual_net_solar",mean_annual_net_thermal,4,1
+Japan,2008,2,2.2202861329244583,"pm2.5_mean, ozone_mean",,2,0
+Japan,2010,1,1.2902849504901175,mean_sensible_heat,,1,0
+Japan,2011,3,2.096838472722402,"extreme_rain_days, max_year_precip, max_monthly_wind_speed",,3,0
+Japan,2012,1,1.7108285482980983,heavy_rain_days,,1,0
+Japan,2013,2,1.993699646689557,"max_temp, mean_annual_wind_speed",,2,0
+Japan,2014,2,1.40250210019095,"mean_annual_rsn, mean_sensible_heat",,2,0
+Japan,2015,1,2.1202065527998846,winter_mean_snow_density,,1,0
+Japan,2018,3,2.6389105274030618,"anomaly_heat_days, drought_episodes, max_runoff",,3,0
+Japan,2019,3,2.4210826473762315,,"min_temp, annual_total_evap, mean_latent_heat",0,3
+Japan,2020,1,2.1964496904007964,,mean_annual_rsn,0,1
+Japan,2021,2,1.5255795972084953,"mean_temp, heavy_rain_days",,2,0
+Japan,2022,2,1.5840839934362188,mean_annual_net_thermal,mean_annual_net_solar,1,1
+Japan,2023,15,5.043759335033018,"mean_temp, heat_episodes, extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, drought_episodes, annual_total_evap, annual_potential_evap, mean_annual_net_thermal, mean_latent_heat","mean_annual_rsn, mean_annual_net_solar, mean_sensible_heat",12,3
+Kazakhstan,1990,6,3.144920807144731,"runoff_days, max_runoff, ozone_mean, no2_mean","annual_total_evap, mean_latent_heat",4,2
+Kazakhstan,1992,1,2.3706842654134053,mean_annual_rsn,,1,0
+Kazakhstan,1993,9,2.6418082706257024,"annual_freeze_burden, mean_cold_area, heavy_rain_days, runoff_days, annual_potential_evap, mean_annual_rsn, mean_sensible_heat","mean_temp, mean_annual_net_solar",7,2
+Kazakhstan,1995,1,1.8908189705325875,mean_annual_wind_speed,,1,0
+Kazakhstan,1996,4,2.730163917599893,"anomaly_cold_days, annual_freeze_burden, mean_cold_area",mean_temp,3,1
+Kazakhstan,1998,3,1.8113889131241088,"heat_episodes, max_monthly_wind_speed",min_temp,2,1
+Kazakhstan,1999,3,1.9178524971048263,"heavy_rain_days, extreme_rain_days, ozone_mean",,3,0
+Kazakhstan,2001,2,2.033010771670598,"anomaly_cold_days, max_runoff",,2,0
+Kazakhstan,2003,2,1.5825175944937562,"heavy_rain_days, mean_sensible_heat",,2,0
+Kazakhstan,2005,1,1.7735035183685006,anomaly_heat_days,,1,0
+Kazakhstan,2006,2,2.16675864635456,anomaly_heat_days,min_temp,1,1
+Kazakhstan,2008,5,1.8953287148328968,"annual_dry_area, pm2.5_mean, pressure_variability","min_monthly_soil_moisture, mean_annual_rsn",3,2
+Kazakhstan,2010,6,1.989973563363495,"drought_episodes, mean_dry_area, evap_deficit, mean_annual_net_solar","min_monthly_soil_moisture, mean_annual_net_thermal",4,2
+Kazakhstan,2011,1,1.5520197490582892,,mean_annual_rsn,0,1
+Kazakhstan,2012,12,2.049607570911453,"extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, annual_dry_area, drought_episodes, mean_dry_area, mean_annual_wind_speed, pressure_variability","mean_soil_moisture, mean_sensible_heat",10,2
+Kazakhstan,2013,2,1.5426479538281113,"mean_temp, pm2.5_mean",,2,0
+Kazakhstan,2014,1,1.4701065582216395,max_year_precip,,1,0
+Kazakhstan,2015,3,1.8189736854319043,"max_temp, winter_mean_snow_density, max_monthly_wind_speed",,3,0
+Kazakhstan,2016,6,3.093242012518027,"winter_mean_snow_density, heavy_rain_days, extreme_rain_days, max_year_precip","annual_total_evap, mean_latent_heat",4,2
+Kazakhstan,2020,1,1.7967263614114453,,mean_soil_moisture,0,1
+Kazakhstan,2021,12,1.8789755041715168,"max_temp, extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, evap_deficit, annual_total_evap, mean_annual_net_solar, mean_latent_heat","mean_annual_net_thermal, mean_sensible_heat",10,2
+Kazakhstan,2022,1,1.1330021231889236,mean_annual_net_thermal,,1,0
+Kazakhstan,2023,7,4.851583639592538,"mean_temp, heat_episodes, annual_total_evap, annual_potential_evap, mean_annual_net_thermal, mean_latent_heat",mean_annual_net_solar,6,1
+Madagascar,1990,4,0.17149858514250885,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Madagascar,1991,6,2.0053481600622285,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn","min_temp, min_monthly_soil_moisture",4,2
+Madagascar,1992,6,1.3767740764872254,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn","mean_soil_moisture, mean_annual_net_thermal",4,2
+Madagascar,1993,7,2.3280452680623482,"anomaly_cold_days, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, max_monthly_wind_speed, mean_annual_rsn",mean_temp,6,1
+Madagascar,1994,7,1.6210677576153143,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn","mean_temp, annual_total_evap, mean_latent_heat",4,3
+Madagascar,1995,4,0.17149858514250885,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Madagascar,1996,6,5.659453309702792,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, drought_episodes, mean_annual_rsn",min_temp,5,1
+Madagascar,1997,6,0.9239500355377436,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn","annual_total_evap, mean_latent_heat",4,2
+Madagascar,1998,4,0.17149858514250885,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Madagascar,1999,8,1.4307697042714476,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, annual_dry_area, mean_dry_area, mean_annual_rsn, mean_annual_net_solar",mean_annual_net_thermal,7,1
+Madagascar,2000,5,1.7467216190842854,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_wind_speed, mean_annual_rsn",,5,0
+Madagascar,2001,8,2.6305093685771275,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, max_year_precip, max_runoff, pm2.5_mean, mean_annual_rsn, mean_annual_net_solar",,8,0
+Madagascar,2002,5,1.9325789134014402,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, max_monthly_wind_speed, mean_annual_rsn",,5,0
+Madagascar,2003,4,0.17149858514250885,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Madagascar,2004,5,2.2185856808540274,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, pressure_variability, mean_annual_rsn",,5,0
+Madagascar,2005,4,0.17149858514250885,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Madagascar,2006,4,0.17149858514250885,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Madagascar,2007,8,2.2068347761687215,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, extreme_rain_days, max_year_precip, runoff_days, max_runoff, mean_annual_rsn",,8,0
+Madagascar,2008,4,0.17149858514250885,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Madagascar,2009,4,0.17149858514250885,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Madagascar,2010,11,2.1086563780853558,"max_temp, heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, pm2.5_mean, mean_annual_rsn",,11,0
+Madagascar,2011,4,0.17149858514250885,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Madagascar,2012,5,1.7563815043752027,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, heavy_rain_days, mean_annual_rsn",,5,0
+Madagascar,2013,6,2.2344441930899768,"anomaly_cold_days, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",min_monthly_soil_moisture,5,1
+Madagascar,2014,4,0.17149858514250885,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Madagascar,2015,7,2.4390321877219168,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, extreme_rain_days, drought_episodes, runoff_days, mean_annual_rsn",,7,0
+Madagascar,2016,5,1.8166961991817756,"heat_episodes, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,5,0
+Madagascar,2017,5,1.6791768181200482,"extreme_heat_episodes, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,5,0
+Madagascar,2018,5,1.7916733931271056,"extreme_heat_episodes, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,5,0
+Madagascar,2019,11,2.179923642138627,"mean_temp, extreme_area, caution_area, mean_caution_area, mean_extreme_area, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, heavy_rain_days, ozone_mean, mean_annual_rsn",,11,0
+Madagascar,2020,14,2.4332767047310275,"max_temp, anomaly_heat_days, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, annual_dry_area, mean_dry_area, evap_deficit, ozone_mean, no2_mean, mean_annual_wind_speed, mean_annual_rsn","mean_soil_moisture, mean_sensible_heat",12,2
+Madagascar,2021,7,1.9638245864811648,"anomaly_heat_days, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, evap_deficit, mean_annual_rsn",mean_sensible_heat,6,1
+Madagascar,2022,11,1.8557290650285085,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, pressure_variability, annual_total_evap, annual_potential_evap, mean_annual_rsn, mean_annual_net_thermal, mean_latent_heat, mean_sensible_heat",mean_annual_net_solar,10,1
+Madagascar,2023,11,5.174756778666653,"mean_temp, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, annual_total_evap, annual_potential_evap, mean_annual_rsn, mean_annual_net_thermal, mean_latent_heat, mean_sensible_heat",mean_annual_net_solar,10,1
+Malawi,1990,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Malawi,1991,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Malawi,1992,5,2.1075736377057135,"anomaly_heat_days, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,5,0
+Malawi,1993,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Malawi,1994,5,1.518934238090611,"max_temp, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,5,0
+Malawi,1995,11,2.2477491054973853,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, max_year_precip, evap_deficit, max_runoff, mean_annual_rsn","mean_soil_moisture, min_monthly_soil_moisture, mean_annual_net_thermal, mean_sensible_heat",7,4
+Malawi,1996,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Malawi,1997,7,1.7432751905240012,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, max_monthly_wind_speed, mean_annual_rsn","annual_total_evap, mean_latent_heat",5,2
+Malawi,1998,7,1.577617329802473,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, runoff_days, mean_annual_wind_speed, mean_annual_rsn, mean_annual_net_solar",,7,0
+Malawi,1999,5,2.2999660721286683,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_wind_speed, mean_annual_rsn",,5,0
+Malawi,2000,6,1.762405939871972,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, pressure_variability, mean_annual_rsn",mean_temp,5,1
+Malawi,2001,6,1.88461850172175,"anomaly_cold_days, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, pm2.5_mean, mean_annual_rsn",,6,0
+Malawi,2002,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Malawi,2003,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Malawi,2004,5,1.5037357400375626,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",mean_temp,4,1
+Malawi,2005,17,2.1339641431187872,"heat_episodes, extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, annual_dry_area, mean_dry_area, evap_deficit, mean_annual_rsn, mean_annual_net_solar","mean_soil_moisture, mean_annual_net_thermal, mean_sensible_heat",14,3
+Malawi,2006,6,1.6879893999696873,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, heavy_rain_days, ozone_mean, mean_annual_rsn",,6,0
+Malawi,2007,6,1.681915251666697,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, runoff_days, ozone_mean, mean_annual_rsn",,6,0
+Malawi,2008,6,3.1990190977943547,"anomaly_cold_days, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, pm2.5_mean, mean_annual_rsn",,6,0
+Malawi,2009,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Malawi,2010,5,2.4909691098430895,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",min_temp,4,1
+Malawi,2011,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Malawi,2012,5,1.5760489865740512,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",min_temp,4,1
+Malawi,2013,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Malawi,2014,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Malawi,2015,5,1.9064192563821316,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, drought_episodes, mean_annual_rsn",,5,0
+Malawi,2016,12,3.0832333519323596,"mean_temp, anomaly_heat_days, heat_episodes, extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,12,0
+Malawi,2017,5,1.779087240602972,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, heavy_rain_days, mean_annual_rsn",,5,0
+Malawi,2018,6,2.218779085813676,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, extreme_rain_days, max_monthly_wind_speed, mean_annual_rsn",,6,0
+Malawi,2019,10,2.2099585208442623,"max_temp, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, extreme_rain_days, runoff_days, no2_mean, mean_annual_rsn","annual_total_evap, mean_latent_heat",8,2
+Malawi,2020,6,2.3272926581515505,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, max_year_precip, max_runoff, mean_annual_rsn",,6,0
+Malawi,2021,8,2.031430355161288,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, annual_dry_area, drought_episodes, mean_dry_area, pressure_variability, mean_annual_rsn",,8,0
+Malawi,2022,11,2.4256695298117115,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, annual_total_evap, annual_potential_evap, mean_annual_rsn, mean_annual_net_thermal, mean_latent_heat, mean_sensible_heat","min_monthly_soil_moisture, mean_annual_net_solar",9,2
+Malawi,2023,13,5.067184027378691,"mean_temp, anomaly_heat_days, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, runoff_days, annual_total_evap, annual_potential_evap, mean_annual_rsn, mean_annual_net_thermal, mean_latent_heat, mean_sensible_heat",mean_annual_net_solar,12,1
+Morocco,1990,1,1.823644865871729,no2_mean,,1,0
+Morocco,1992,2,1.9312364744029271,max_monthly_wind_speed,mean_temp,1,1
+Morocco,1993,1,2.305304536835955,,mean_temp,0,1
+Morocco,1995,1,1.707052218788756,pressure_variability,,1,0
+Morocco,1996,6,3.2310207758962277,"heavy_rain_days, extreme_rain_days, runoff_days, max_runoff","annual_total_evap, mean_latent_heat",4,2
+Morocco,1999,5,2.1123330455543887,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_wind_speed, mean_annual_rsn",,5,0
+Morocco,2000,5,1.823644865871729,"annual_dry_area, drought_episodes, no2_mean, mean_annual_net_solar",mean_annual_net_thermal,4,1
+Morocco,2001,6,1.9090187300117913,"annual_dry_area, drought_episodes, mean_dry_area, mean_annual_net_solar","min_monthly_soil_moisture, mean_sensible_heat",4,2
+Morocco,2003,1,1.8629416528522036,,min_temp,0,1
+Morocco,2005,3,2.4274895860444006,"annual_freeze_burden, mean_cold_area",mean_sensible_heat,2,1
+Morocco,2006,3,2.313602293061765,"anomaly_cold_days, winter_mean_snow_density, mean_annual_rsn",,3,0
+Morocco,2008,1,1.5378548242006207,max_monthly_wind_speed,,1,0
+Morocco,2009,2,2.2150534714101773,"max_year_precip, max_runoff",,2,0
+Morocco,2010,5,3.1661683051716207,"heavy_rain_days, extreme_rain_days, runoff_days","annual_total_evap, mean_latent_heat",3,2
+Morocco,2012,2,2.3347362536485554,"max_temp, anomaly_cold_days",,2,0
+Morocco,2014,1,1.9767248354723808,max_year_precip,,1,0
+Morocco,2015,1,1.7472659469821494,pressure_variability,,1,0
+Morocco,2017,10,2.4091680354741714,"heat_episodes, extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, evap_deficit, pm2.5_mean","min_temp, mean_annual_net_thermal",8,2
+Morocco,2018,1,2.093629892913947,mean_annual_wind_speed,,1,0
+Morocco,2019,1,1.7612222941634001,ozone_mean,,1,0
+Morocco,2020,3,1.9237966597784812,"evap_deficit, ozone_mean",mean_annual_rsn,2,1
+Morocco,2021,2,1.6984613868471887,anomaly_heat_days,min_monthly_soil_moisture,1,1
+Morocco,2022,10,1.8925736945827407,"mean_temp, heat_episodes, pm2.5_mean, annual_total_evap, annual_potential_evap, mean_annual_net_thermal, mean_latent_heat, mean_sensible_heat","mean_soil_moisture, mean_annual_net_solar",8,2
+Morocco,2023,18,5.41454361536757,"mean_temp, max_temp, anomaly_heat_days, extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, drought_episodes, mean_dry_area, annual_total_evap, annual_potential_evap, mean_annual_net_thermal, mean_latent_heat, mean_sensible_heat","mean_soil_moisture, mean_annual_rsn, mean_annual_net_solar",15,3
+Mozambique,1990,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Mozambique,1991,6,2.5205010480170467,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, max_year_precip, max_runoff, mean_annual_rsn",,6,0
+Mozambique,1992,20,1.9705556898499559,"anomaly_heat_days, heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, annual_dry_area, mean_dry_area, evap_deficit, annual_total_evap, mean_annual_rsn, mean_annual_net_solar, mean_latent_heat","mean_soil_moisture, min_monthly_soil_moisture, mean_annual_net_thermal, mean_sensible_heat",16,4
+Mozambique,1993,5,1.6620639077702428,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, max_monthly_wind_speed, mean_annual_rsn",,5,0
+Mozambique,1994,6,3.021476419341598,"anomaly_cold_days, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",min_temp,5,1
+Mozambique,1995,6,2.0203473650116712,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, max_monthly_wind_speed, mean_annual_wind_speed, mean_annual_rsn",,6,0
+Mozambique,1996,5,1.9368438585523065,"anomaly_cold_days, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,5,0
+Mozambique,1997,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Mozambique,1998,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Mozambique,1999,9,3.0248696670811235,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, max_year_precip, max_runoff, mean_annual_rsn","mean_temp, annual_total_evap, mean_latent_heat",6,3
+Mozambique,2000,10,2.2795116969702223,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, heavy_rain_days, pressure_variability, mean_annual_rsn, mean_sensible_heat","mean_temp, annual_total_evap, mean_latent_heat",7,3
+Mozambique,2001,5,2.066453778598529,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, pm2.5_mean, mean_annual_rsn",,5,0
+Mozambique,2002,5,1.7915953277699475,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, heavy_rain_days, mean_annual_rsn",,5,0
+Mozambique,2003,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Mozambique,2004,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Mozambique,2005,16,2.878303591461092,"mean_temp, heat_episodes, extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, evap_deficit, mean_annual_rsn, mean_annual_net_solar","mean_soil_moisture, mean_annual_net_thermal, mean_sensible_heat",13,3
+Mozambique,2006,5,1.4621655796952218,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, ozone_mean, mean_annual_rsn",,5,0
+Mozambique,2007,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Mozambique,2008,5,1.6118515442615737,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, drought_episodes, mean_annual_rsn",,5,0
+Mozambique,2009,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Mozambique,2010,5,1.8393220055198105,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, pm2.5_mean, mean_annual_rsn",,5,0
+Mozambique,2011,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Mozambique,2012,5,2.224626520993799,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",min_temp,4,1
+Mozambique,2013,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Mozambique,2014,5,1.5235098635274011,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, no2_mean, mean_annual_rsn",,5,0
+Mozambique,2015,9,2.4470665296819907,"max_temp, extreme_heat_episodes, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, annual_dry_area, drought_episodes, mean_dry_area, mean_annual_rsn",,9,0
+Mozambique,2016,7,1.853419420457036,"mean_temp, anomaly_heat_days, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",min_monthly_soil_moisture,6,1
+Mozambique,2017,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Mozambique,2018,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Mozambique,2019,7,2.8090402941441335,"max_temp, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, extreme_rain_days, runoff_days, mean_annual_rsn",,7,0
+Mozambique,2020,6,1.8710444484199897,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, ozone_mean, mean_annual_wind_speed, mean_annual_rsn",,6,0
+Mozambique,2021,5,1.9105203871847263,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, pressure_variability, mean_annual_rsn",,5,0
+Mozambique,2022,8,2.098993994953679,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, extreme_rain_days, annual_potential_evap, mean_annual_rsn, mean_annual_net_thermal",mean_annual_net_solar,7,1
+Mozambique,2023,12,5.077829075005198,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, extreme_rain_days, runoff_days, annual_total_evap, annual_potential_evap, mean_annual_rsn, mean_annual_net_thermal, mean_latent_heat, mean_sensible_heat",mean_annual_net_solar,11,1
+Netherlands,1990,4,2.2891674375763023,"pm2.5_mean, no2_mean, max_monthly_wind_speed, mean_annual_wind_speed",,4,0
+Netherlands,1991,1,1.3593026914062052,pm2.5_mean,,1,0
+Netherlands,1993,3,1.997258649975119,"anomaly_cold_days, heavy_rain_days, pressure_variability",,3,0
+Netherlands,1994,3,2.2183495903185646,"heat_episodes, extreme_heat_episodes, max_year_precip",,3,0
+Netherlands,1995,8,2.190310463515002,"anomaly_heat_days, extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, runoff_days",min_monthly_soil_moisture,7,1
+Netherlands,1996,10,3.2697828617446767,"anomaly_cold_days, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, max_year_precip, annual_total_evap, mean_annual_rsn, mean_latent_heat","mean_temp, mean_sensible_heat",8,2
+Netherlands,1997,1,2.2340364266854977,,min_temp,0,1
+Netherlands,1998,5,2.783883256202697,"extreme_rain_days, runoff_days, mean_annual_net_thermal, mean_sensible_heat",mean_annual_net_solar,4,1
+Netherlands,2000,2,1.8101147863522322,"mean_annual_wind_speed, mean_sensible_heat",,2,0
+Netherlands,2002,1,1.8574676006773811,ozone_mean,,1,0
+Netherlands,2003,8,2.3944665969739987,"anomaly_heat_days, annual_dry_area, drought_episodes, mean_dry_area, ozone_mean, mean_annual_net_solar","mean_soil_moisture, mean_annual_net_thermal",6,2
+Netherlands,2004,2,1.8574676006773811,"max_runoff, ozone_mean",,2,0
+Netherlands,2005,1,2.4516892226027123,,min_temp,0,1
+Netherlands,2006,7,2.0135202337416747,"anomaly_heat_days, heat_episodes, extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area",,7,0
+Netherlands,2007,2,0.8341953854133004,,"annual_total_evap, mean_latent_heat",0,2
+Netherlands,2008,1,3.902890918553662,max_runoff,,1,0
+Netherlands,2010,5,2.649744283625581,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",mean_temp,4,1
+Netherlands,2012,1,2.2245753460613473,pressure_variability,,1,0
+Netherlands,2014,2,0.7227713759295027,,"annual_total_evap, mean_latent_heat",0,2
+Netherlands,2018,9,2.2698180130460965,"annual_dry_area, drought_episodes, mean_dry_area, evap_deficit, mean_annual_net_solar","mean_soil_moisture, min_monthly_soil_moisture, mean_annual_net_thermal, mean_sensible_heat",5,4
+Netherlands,2019,2,2.647686302158573,max_temp,mean_annual_rsn,1,1
+Netherlands,2020,4,2.2237644469383624,"mean_temp, evap_deficit, max_monthly_wind_speed",mean_annual_rsn,3,1
+Netherlands,2021,3,2.1851531380425513,"heavy_rain_days, extreme_rain_days, annual_potential_evap",,3,0
+Netherlands,2022,1,1.763954321805828,max_temp,,1,0
+Netherlands,2023,6,5.119994747542349,"mean_temp, annual_total_evap, annual_potential_evap, mean_annual_net_thermal, mean_latent_heat",mean_annual_net_solar,5,1
+Nicaragua,1990,4,0.9851843661437781,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Nicaragua,1991,4,0.9851843661437781,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Nicaragua,1992,7,1.8998412326749394,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn","mean_soil_moisture, mean_annual_net_thermal, mean_sensible_heat",4,3
+Nicaragua,1993,4,0.9851843661437781,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Nicaragua,1994,6,0.9851843661437781,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn, mean_annual_net_solar",mean_annual_net_thermal,5,1
+Nicaragua,1995,5,1.875104141956199,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, pressure_variability, mean_annual_rsn",,5,0
+Nicaragua,1996,4,0.9851843661437781,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Nicaragua,1997,5,0.9851843661437781,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn, mean_annual_net_solar",,5,0
+Nicaragua,1998,15,3.0506195645898537,"mean_temp, max_temp, anomaly_heat_days, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, max_year_precip, annual_dry_area, drought_episodes, mean_dry_area, evap_deficit, max_runoff, mean_annual_rsn","min_monthly_soil_moisture, mean_sensible_heat",13,2
+Nicaragua,1999,6,2.2039664023425183,"anomaly_cold_days, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",mean_temp,5,1
+Nicaragua,2000,8,1.5370305355705263,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, pm2.5_mean, mean_annual_wind_speed, mean_annual_rsn","mean_temp, mean_soil_moisture",6,2
+Nicaragua,2001,6,2.1398741491159012,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, evap_deficit, max_monthly_wind_speed, mean_annual_rsn",,6,0
+Nicaragua,2002,4,0.9851843661437781,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Nicaragua,2003,6,1.711978272835954,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, pm2.5_mean, ozone_mean, mean_annual_rsn",,6,0
+Nicaragua,2004,5,1.7727298046998414,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, max_monthly_wind_speed, mean_annual_rsn",,5,0
+Nicaragua,2005,5,1.858344358224595,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, pressure_variability, mean_annual_rsn",,5,0
+Nicaragua,2006,5,1.8097496030007683,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",min_temp,4,1
+Nicaragua,2007,4,0.9851843661437781,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Nicaragua,2008,4,0.9851843661437781,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Nicaragua,2009,5,1.6098932976125724,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",min_temp,4,1
+Nicaragua,2010,9,3.2371682430000246,"anomaly_cold_days, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, heavy_rain_days, annual_dry_area, drought_episodes, mean_dry_area, mean_annual_rsn",,9,0
+Nicaragua,2011,5,1.1602702399153013,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, no2_mean, mean_annual_rsn",,5,0
+Nicaragua,2012,7,2.2664548179186452,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, ozone_mean, mean_annual_rsn","annual_total_evap, mean_latent_heat",5,2
+Nicaragua,2013,4,0.9851843661437781,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Nicaragua,2014,4,0.9851843661437781,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Nicaragua,2015,11,2.189640163790681,"heat_episodes, extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_wind_speed, mean_annual_rsn",,11,0
+Nicaragua,2016,4,0.9851843661437781,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Nicaragua,2017,8,2.1663003606847524,"max_temp, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, heavy_rain_days, mean_annual_rsn","annual_total_evap, mean_latent_heat",6,2
+Nicaragua,2018,4,0.9851843661437781,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Nicaragua,2019,11,2.235974934038027,"heat_episodes, extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, max_year_precip, mean_annual_rsn",,11,0
+Nicaragua,2020,9,2.1421773732285625,"anomaly_heat_days, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, extreme_rain_days, runoff_days, max_runoff, mean_annual_rsn",min_monthly_soil_moisture,8,1
+Nicaragua,2021,4,0.9851843661437781,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Nicaragua,2022,12,2.7113984055925786,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, extreme_rain_days, runoff_days, annual_total_evap, annual_potential_evap, mean_annual_rsn, mean_annual_net_thermal, mean_latent_heat, mean_sensible_heat",mean_annual_net_solar,11,1
+Nicaragua,2023,11,5.3185486303177285,"mean_temp, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, annual_total_evap, annual_potential_evap, mean_annual_rsn, mean_annual_net_thermal, mean_latent_heat, mean_sensible_heat",mean_annual_net_solar,10,1
+Niger,1990,2,0.17149858514428776,"winter_mean_snow_density, mean_annual_rsn",,2,0
+Niger,1991,2,0.17149858514428776,"winter_mean_snow_density, mean_annual_rsn",,2,0
+Niger,1992,6,2.200116976868234,"anomaly_cold_days, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",mean_temp,5,1
+Niger,1993,2,5.659453309702644,"winter_mean_snow_density, mean_annual_rsn",,2,0
+Niger,1994,5,1.8933722943403646,"anomaly_cold_days, winter_mean_snow_density, runoff_days, mean_annual_rsn",mean_temp,4,1
+Niger,1995,6,4.202217945809495,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, pressure_variability, mean_annual_rsn",min_temp,5,1
+Niger,1996,7,1.6691211581735463,"extreme_heat_episodes, winter_mean_snow_density, annual_total_evap, mean_annual_rsn, mean_annual_net_solar, mean_latent_heat",mean_soil_moisture,6,1
+Niger,1997,2,0.17149858514428776,"winter_mean_snow_density, mean_annual_rsn",,2,0
+Niger,1998,5,1.8800387235527207,"winter_mean_snow_density, heavy_rain_days, mean_annual_rsn","annual_total_evap, mean_latent_heat",3,2
+Niger,1999,7,2.5811357345922064,"winter_mean_snow_density, heavy_rain_days, extreme_rain_days, runoff_days, mean_annual_rsn","annual_total_evap, mean_latent_heat",5,2
+Niger,2000,6,2.112792502134689,"winter_mean_snow_density, max_monthly_wind_speed, mean_annual_wind_speed, mean_annual_rsn, mean_annual_net_solar",mean_annual_net_thermal,5,1
+Niger,2001,2,0.17149858514428776,"winter_mean_snow_density, mean_annual_rsn",,2,0
+Niger,2002,2,0.17149858514428776,"winter_mean_snow_density, mean_annual_rsn",,2,0
+Niger,2003,2,0.17149858514428776,"winter_mean_snow_density, mean_annual_rsn",,2,0
+Niger,2004,3,1.5785910681397517,"winter_mean_snow_density, annual_dry_area, mean_annual_rsn",,3,0
+Niger,2005,4,2.043282436692691,"heat_episodes, winter_mean_snow_density, mean_annual_rsn",min_monthly_soil_moisture,3,1
+Niger,2006,3,1.4371280240515387,"winter_mean_snow_density, drought_episodes, mean_annual_rsn",,3,0
+Niger,2007,2,0.17149858514428776,"winter_mean_snow_density, mean_annual_rsn",,2,0
+Niger,2008,2,0.17149858514428776,"winter_mean_snow_density, mean_annual_rsn",,2,0
+Niger,2009,3,0.5141656925756468,"winter_mean_snow_density, mean_annual_rsn",mean_sensible_heat,2,1
+Niger,2010,11,2.461279210342216,"mean_temp, max_temp, anomaly_heat_days, heat_episodes, extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, winter_mean_snow_density, mean_annual_rsn",,11,0
+Niger,2011,4,0.6894977734506075,"winter_mean_snow_density, evap_deficit, mean_annual_rsn",mean_sensible_heat,3,1
+Niger,2012,3,1.7329894000428678,"winter_mean_snow_density, max_runoff, mean_annual_rsn",,3,0
+Niger,2013,2,0.17149858514428776,"winter_mean_snow_density, mean_annual_rsn",,2,0
+Niger,2014,2,0.17149858514428776,"winter_mean_snow_density, mean_annual_rsn",,2,0
+Niger,2015,8,2.3961808381624574,"max_temp, winter_mean_snow_density, pm2.5_mean, max_monthly_wind_speed, mean_annual_wind_speed, pressure_variability, mean_annual_rsn",min_temp,7,1
+Niger,2016,4,1.8177801388752028,"anomaly_heat_days, winter_mean_snow_density, pm2.5_mean, mean_annual_rsn",,4,0
+Niger,2017,3,1.5809159364682366,"winter_mean_snow_density, max_year_precip, mean_annual_rsn",,3,0
+Niger,2018,2,0.17149858514428776,"winter_mean_snow_density, mean_annual_rsn",,2,0
+Niger,2019,5,1.9595755580683294,"winter_mean_snow_density, max_year_precip, ozone_mean, no2_mean, mean_annual_rsn",,5,0
+Niger,2020,3,2.2318472616047154,"winter_mean_snow_density, ozone_mean, mean_annual_rsn",,3,0
+Niger,2021,14,2.3085654413774335,"extreme_area, caution_area, mean_caution_area, mean_extreme_area, winter_mean_snow_density, annual_dry_area, drought_episodes, mean_dry_area, evap_deficit, max_runoff, mean_annual_rsn","mean_soil_moisture, min_monthly_soil_moisture, mean_annual_net_thermal",11,3
+Niger,2022,7,1.7012435199905058,"winter_mean_snow_density, extreme_rain_days, annual_potential_evap, mean_annual_rsn, mean_annual_net_thermal, mean_sensible_heat",mean_annual_net_solar,6,1
+Niger,2023,10,5.371249945144141,"mean_temp, winter_mean_snow_density, mean_dry_area, annual_total_evap, annual_potential_evap, mean_annual_rsn, mean_annual_net_thermal, mean_latent_heat, mean_sensible_heat",mean_annual_net_solar,9,1
+Pakistan,1990,1,2.773574304132788,no2_mean,,1,0
+Pakistan,1991,3,2.1530930885456585,"anomaly_cold_days, winter_mean_snow_density, mean_annual_rsn",,3,0
+Pakistan,1992,2,1.8458135217570415,heavy_rain_days,mean_temp,1,1
+Pakistan,1994,7,2.22753535587838,"anomaly_heat_days, extreme_rain_days, runoff_days, max_runoff, pressure_variability","annual_total_evap, mean_latent_heat",5,2
+Pakistan,1995,2,2.1530930885456585,"anomaly_cold_days, pressure_variability",,2,0
+Pakistan,1996,1,2.2607371532056186,runoff_days,,1,0
+Pakistan,1997,3,2.1554675602722346,,"mean_temp, annual_total_evap, mean_latent_heat",0,3
+Pakistan,1998,1,1.4011195684218511,,min_monthly_soil_moisture,0,1
+Pakistan,2000,11,2.0928928663278574,"heat_episodes, annual_dry_area, drought_episodes, mean_dry_area, evap_deficit, mean_annual_wind_speed, mean_annual_net_solar","min_temp, mean_soil_moisture, mean_annual_net_thermal, mean_sensible_heat",7,4
+Pakistan,2001,2,1.9997632996026977,drought_episodes,mean_annual_rsn,1,1
+Pakistan,2002,10,2.9217396314368975,"anomaly_heat_days, evap_deficit, max_monthly_wind_speed, mean_annual_wind_speed, annual_total_evap, mean_annual_net_solar, mean_latent_heat","mean_soil_moisture, mean_annual_net_thermal, mean_sensible_heat",7,3
+Pakistan,2004,6,1.9141409278391126,"extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, max_monthly_wind_speed",,6,0
+Pakistan,2005,2,2.262462742442564,"winter_mean_snow_density, mean_annual_rsn",,2,0
+Pakistan,2006,1,2.511561930311005,,min_temp,0,1
+Pakistan,2008,1,1.6819859044864498,extreme_heat_episodes,,1,0
+Pakistan,2010,2,2.1216375201921847,"max_temp, heat_episodes",,2,0
+Pakistan,2011,1,1.9417995580385239,max_year_precip,,1,0
+Pakistan,2012,2,2.622171850876807,"annual_freeze_burden, mean_cold_area",,2,0
+Pakistan,2014,2,1.5603871957435722,"annual_freeze_burden, mean_cold_area",,2,0
+Pakistan,2016,8,2.938029090955492,"mean_temp, extreme_area, caution_area, mean_caution_area, mean_extreme_area, max_year_precip, max_runoff",min_monthly_soil_moisture,7,1
+Pakistan,2017,2,2.6122307810351413,"max_temp, ozone_mean",,2,0
+Pakistan,2018,2,2.576755583198842,"mean_temp, pm2.5_mean",,2,0
+Pakistan,2020,2,2.1241272390325374,"heavy_rain_days, ozone_mean",,2,0
+Pakistan,2021,3,1.9012572617542935,"annual_dry_area, mean_dry_area, pm2.5_mean",,3,0
+Pakistan,2022,6,1.988266498780684,"extreme_rain_days, annual_potential_evap, mean_annual_net_thermal, mean_sensible_heat","mean_annual_rsn, mean_annual_net_solar",4,2
+Pakistan,2023,6,5.114213912390615,"annual_total_evap, annual_potential_evap, mean_annual_net_thermal, mean_latent_heat, mean_sensible_heat",mean_annual_net_solar,5,1
+Philippines,1990,5,1.5499323630908894,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, pm2.5_mean, mean_annual_rsn",,5,0
+Philippines,1991,9,2.36010294733286,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, annual_dry_area, drought_episodes, mean_dry_area, pm2.5_mean, mean_annual_wind_speed, mean_annual_rsn",,9,0
+Philippines,1992,13,2.324988629937262,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, annual_dry_area, mean_dry_area, evap_deficit, pressure_variability, mean_annual_rsn, mean_annual_net_solar","mean_soil_moisture, min_monthly_soil_moisture, mean_annual_net_thermal, mean_sensible_heat",9,4
+Philippines,1993,4,0.9851843661437781,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Philippines,1994,4,0.9851843661437781,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Philippines,1995,4,0.9851843661437781,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Philippines,1996,6,1.5900820944095826,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, max_monthly_wind_speed, mean_annual_rsn",mean_temp,5,1
+Philippines,1997,5,2.6768397461269937,"anomaly_cold_days, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,5,0
+Philippines,1998,21,3.070222418211774,"mean_temp, max_temp, anomaly_heat_days, heat_episodes, extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, drought_episodes, evap_deficit, mean_annual_rsn, mean_annual_net_solar","min_temp, mean_soil_moisture, min_monthly_soil_moisture, mean_annual_net_thermal, mean_sensible_heat",16,5
+Philippines,1999,6,1.356297160256057,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn, mean_sensible_heat",mean_temp,5,1
+Philippines,2000,4,0.9851843661437781,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Philippines,2001,8,2.6087445835717817,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, max_year_precip, max_runoff, mean_annual_rsn","annual_total_evap, mean_latent_heat",6,2
+Philippines,2002,4,0.9851843661437781,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Philippines,2003,5,2.135098368934626,"anomaly_cold_days, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,5,0
+Philippines,2004,4,0.9851843661437781,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Philippines,2005,4,0.9851843661437781,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Philippines,2006,4,0.9851843661437781,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Philippines,2007,4,0.9851843661437781,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Philippines,2008,5,1.85885056231992,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, ozone_mean, mean_annual_rsn",,5,0
+Philippines,2009,7,2.6413466134525643,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, extreme_rain_days, runoff_days, mean_annual_rsn",min_temp,6,1
+Philippines,2010,6,1.6863225161165738,"heat_episodes, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, ozone_mean, mean_annual_rsn",,6,0
+Philippines,2011,8,2.1661837306092457,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, heavy_rain_days, extreme_rain_days, runoff_days, mean_annual_rsn, mean_sensible_heat",,8,0
+Philippines,2012,4,0.9851843661437781,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Philippines,2013,4,0.9851843661437781,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Philippines,2014,6,1.8947814443211024,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, max_year_precip, max_runoff, mean_annual_rsn",,6,0
+Philippines,2015,6,2.36010294733286,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, drought_episodes, no2_mean, mean_annual_rsn",,6,0
+Philippines,2016,11,2.158025979584306,"mean_temp, extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, pressure_variability, mean_annual_rsn",,11,0
+Philippines,2017,5,1.5146036867752555,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, heavy_rain_days, mean_annual_rsn",,5,0
+Philippines,2018,7,2.025485371505674,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_wind_speed, mean_annual_rsn","annual_total_evap, mean_latent_heat",5,2
+Philippines,2019,5,2.36010294733286,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, drought_episodes, mean_annual_rsn",,5,0
+Philippines,2020,6,2.1773346229621757,"anomaly_heat_days, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, max_monthly_wind_speed, mean_annual_rsn",,6,0
+Philippines,2021,5,1.561180821100042,"max_temp, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,5,0
+Philippines,2022,9,1.8389497800072097,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, annual_total_evap, annual_potential_evap, mean_annual_rsn, mean_annual_net_thermal, mean_latent_heat",mean_annual_net_solar,8,1
+Philippines,2023,9,4.484567504571301,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, annual_total_evap, annual_potential_evap, mean_annual_rsn, mean_annual_net_thermal, mean_latent_heat",mean_annual_net_solar,8,1
+Sierra Leone,1990,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Sierra Leone,1991,6,1.5798837460063382,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, max_monthly_wind_speed, mean_annual_rsn",min_temp,5,1
+Sierra Leone,1992,5,1.7741205972759277,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",mean_temp,4,1
+Sierra Leone,1993,8,2.158497219579075,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, heavy_rain_days, mean_annual_rsn","mean_temp, annual_total_evap, mean_latent_heat",5,3
+Sierra Leone,1994,7,2.7098646906605834,"anomaly_cold_days, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, max_monthly_wind_speed, mean_annual_wind_speed, mean_annual_rsn",,7,0
+Sierra Leone,1995,6,0.7526169597498124,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn, mean_annual_net_solar",mean_annual_net_thermal,5,1
+Sierra Leone,1996,5,1.4955201797605076,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, pressure_variability, mean_annual_rsn",,5,0
+Sierra Leone,1997,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Sierra Leone,1998,9,3.054210299261076,"mean_temp, max_temp, anomaly_heat_days, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, evap_deficit, mean_annual_rsn",mean_sensible_heat,8,1
+Sierra Leone,1999,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Sierra Leone,2000,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Sierra Leone,2001,5,1.3686204011983514,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",min_monthly_soil_moisture,4,1
+Sierra Leone,2002,5,1.46940362015403,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, runoff_days, mean_annual_rsn",,5,0
+Sierra Leone,2003,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Sierra Leone,2004,7,2.454538104727087,"extreme_heat_episodes, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, pm2.5_mean, pressure_variability, mean_annual_rsn",,7,0
+Sierra Leone,2005,9,1.6444425615939022,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, annual_potential_evap, mean_annual_rsn, mean_annual_net_thermal, mean_sensible_heat","annual_total_evap, mean_latent_heat",7,2
+Sierra Leone,2006,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Sierra Leone,2007,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Sierra Leone,2008,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Sierra Leone,2009,11,1.9939148994793743,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, annual_dry_area, mean_dry_area, evap_deficit, mean_annual_rsn, mean_annual_net_solar","mean_soil_moisture, mean_annual_net_thermal, mean_sensible_heat",8,3
+Sierra Leone,2010,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Sierra Leone,2011,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Sierra Leone,2012,5,1.825548517320038,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, extreme_rain_days, mean_annual_rsn",,5,0
+Sierra Leone,2013,6,1.8448903313252099,"anomaly_cold_days, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, ozone_mean, mean_annual_rsn",,6,0
+Sierra Leone,2014,6,1.6983358349783473,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, runoff_days, ozone_mean, mean_annual_rsn",,6,0
+Sierra Leone,2015,5,2.454538104727087,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, pm2.5_mean, mean_annual_rsn",,5,0
+Sierra Leone,2016,9,2.1730839879766606,"max_temp, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, drought_episodes, runoff_days, mean_annual_rsn","min_temp, min_monthly_soil_moisture",7,2
+Sierra Leone,2017,11,3.1442858657096067,"heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, max_year_precip, max_runoff, mean_annual_rsn",,11,0
+Sierra Leone,2018,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Sierra Leone,2019,8,2.158497219579075,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, heavy_rain_days, max_year_precip, runoff_days, max_runoff, mean_annual_rsn",,8,0
+Sierra Leone,2020,8,2.310348191991186,"anomaly_heat_days, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, ozone_mean, no2_mean, mean_annual_wind_speed, mean_annual_rsn",,8,0
+Sierra Leone,2021,5,1.825548517320038,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, extreme_rain_days, mean_annual_rsn",,5,0
+Sierra Leone,2022,10,2.077676527592322,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, annual_dry_area, mean_dry_area, annual_total_evap, mean_annual_rsn, mean_latent_heat","mean_soil_moisture, mean_annual_net_solar",8,2
+Sierra Leone,2023,18,5.367871310604876,"mean_temp, heat_episodes, extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, drought_episodes, annual_total_evap, annual_potential_evap, mean_annual_rsn, mean_annual_net_thermal, mean_latent_heat, mean_sensible_heat",mean_annual_net_solar,17,1
+South Africa,1992,8,2.1578345048924774,"annual_dry_area, mean_dry_area, evap_deficit, max_monthly_wind_speed, mean_annual_net_solar","mean_soil_moisture, mean_annual_net_thermal, mean_sensible_heat",5,3
+South Africa,1993,1,1.8412298619422989,max_temp,,1,0
+South Africa,1994,2,2.2958278560039176,mean_annual_rsn,min_temp,1,1
+South Africa,1995,1,3.512467713406893,winter_mean_snow_density,,1,0
+South Africa,1996,4,2.404698182602485,"annual_freeze_burden, mean_cold_area","mean_temp, min_temp",2,2
+South Africa,1997,1,1.7085652277013206,max_runoff,,1,0
+South Africa,2000,6,2.1573255661853104,"heavy_rain_days, extreme_rain_days, runoff_days","mean_temp, annual_total_evap, mean_latent_heat",3,3
+South Africa,2001,4,3.9828704795457757,"winter_mean_snow_density, heavy_rain_days","annual_total_evap, mean_latent_heat",2,2
+South Africa,2003,1,1.9716901108040223,heat_episodes,,1,0
+South Africa,2005,1,1.9045088408566773,,mean_annual_rsn,0,1
+South Africa,2006,4,2.0950739089481316,"heavy_rain_days, extreme_rain_days, runoff_days, ozone_mean",,4,0
+South Africa,2007,2,2.0328533634385053,"anomaly_cold_days, no2_mean",,2,0
+South Africa,2008,1,1.985369509355151,mean_annual_wind_speed,,1,0
+South Africa,2009,1,3.2306273770975498,max_year_precip,,1,0
+South Africa,2010,3,2.4876567179794296,"pm2.5_mean, pressure_variability",min_monthly_soil_moisture,2,1
+South Africa,2011,3,2.434696470164721,"anomaly_cold_days, annual_freeze_burden, mean_cold_area",,3,0
+South Africa,2012,1,1.823157956959954,mean_annual_rsn,,1,0
+South Africa,2013,1,1.58862042174259,ozone_mean,,1,0
+South Africa,2015,6,1.896878171781644,"mean_temp, extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area",,6,0
+South Africa,2016,2,2.1270579158570433,"anomaly_heat_days, mean_annual_wind_speed",,2,0
+South Africa,2017,1,1.5798890438583968,drought_episodes,,1,0
+South Africa,2018,2,1.894517822162061,"anomaly_heat_days, pressure_variability",,2,0
+South Africa,2019,21,2.548996240864321,"mean_temp, max_temp, heat_episodes, extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, annual_dry_area, drought_episodes, mean_dry_area, evap_deficit, pm2.5_mean, annual_total_evap, mean_annual_net_solar, mean_latent_heat","mean_soil_moisture, min_monthly_soil_moisture, mean_annual_rsn, mean_annual_net_thermal, mean_sensible_heat",16,5
+South Africa,2022,6,2.435221155770674,"max_year_precip, max_runoff, annual_potential_evap, mean_annual_net_thermal, mean_sensible_heat",mean_annual_net_solar,5,1
+South Africa,2023,7,5.059729640570768,"max_monthly_wind_speed, annual_total_evap, annual_potential_evap, mean_annual_net_thermal, mean_latent_heat, mean_sensible_heat",mean_annual_net_solar,6,1
+Sri Lanka,1990,6,1.4542179648762965,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, pm2.5_mean, max_monthly_wind_speed, mean_annual_rsn",,6,0
+Sri Lanka,1991,5,1.08464482588132,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, pm2.5_mean, mean_annual_rsn",,5,0
+Sri Lanka,1992,18,3.664957468745854,"max_temp, anomaly_cold_days, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, annual_dry_area, drought_episodes, mean_dry_area, evap_deficit, max_monthly_wind_speed, pressure_variability, annual_total_evap, mean_annual_rsn, mean_latent_heat","mean_soil_moisture, min_monthly_soil_moisture, mean_annual_net_thermal, mean_sensible_heat",14,4
+Sri Lanka,1993,6,1.748805933516403,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, evap_deficit, mean_annual_rsn",mean_sensible_heat,5,1
+Sri Lanka,1994,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Sri Lanka,1995,5,2.3134222667472315,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, pressure_variability, mean_annual_rsn",,5,0
+Sri Lanka,1996,6,2.102849473268708,"anomaly_cold_days, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, drought_episodes, mean_annual_rsn",,6,0
+Sri Lanka,1997,10,1.7303724063910055,"heat_episodes, extreme_heat_episodes, mean_caution_area, mean_extreme_area, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn, mean_annual_net_solar",mean_annual_net_thermal,9,1
+Sri Lanka,1998,8,3.2070990053955617,"mean_temp, max_temp, anomaly_heat_days, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",min_monthly_soil_moisture,7,1
+Sri Lanka,1999,6,2.2713022263235536,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_wind_speed, mean_annual_rsn",mean_temp,5,1
+Sri Lanka,2000,5,1.08464482588132,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, pm2.5_mean, mean_annual_rsn",,5,0
+Sri Lanka,2001,5,2.713563746300091,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",min_temp,4,1
+Sri Lanka,2002,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Sri Lanka,2003,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Sri Lanka,2004,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Sri Lanka,2005,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Sri Lanka,2006,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Sri Lanka,2007,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Sri Lanka,2008,5,1.4867716767876198,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",mean_temp,4,1
+Sri Lanka,2009,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Sri Lanka,2010,5,1.456866007637248,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, heavy_rain_days, mean_annual_rsn",,5,0
+Sri Lanka,2011,6,1.6391227477553436,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, extreme_rain_days, runoff_days, mean_annual_rsn",,6,0
+Sri Lanka,2012,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Sri Lanka,2013,5,1.8981807586815849,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_wind_speed, mean_annual_rsn",,5,0
+Sri Lanka,2014,6,2.9932185589874925,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, max_year_precip, max_runoff, mean_annual_rsn",,6,0
+Sri Lanka,2015,8,1.5937535000957466,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, heavy_rain_days, mean_annual_rsn","min_temp, annual_total_evap, mean_latent_heat",5,3
+Sri Lanka,2016,16,3.408762239340182,"mean_temp, heat_episodes, extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, max_year_precip, annual_dry_area, mean_dry_area, mean_annual_rsn, mean_annual_net_solar",mean_soil_moisture,15,1
+Sri Lanka,2017,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Sri Lanka,2018,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Sri Lanka,2019,6,2.119883037584046,"anomaly_heat_days, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, ozone_mean, mean_annual_rsn",,6,0
+Sri Lanka,2020,8,2.3249616847938914,"extreme_area, caution_area, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, ozone_mean, no2_mean, mean_annual_rsn",,8,0
+Sri Lanka,2021,6,1.2850534404937304,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn","annual_total_evap, mean_latent_heat",4,2
+Sri Lanka,2022,8,1.869932663003324,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, annual_potential_evap, mean_annual_rsn, mean_annual_net_thermal, mean_sensible_heat",mean_annual_net_solar,7,1
+Sri Lanka,2023,14,4.971266307506426,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, heavy_rain_days, extreme_rain_days, runoff_days, max_runoff, annual_total_evap, annual_potential_evap, mean_annual_rsn, mean_annual_net_thermal, mean_latent_heat, mean_sensible_heat",mean_annual_net_solar,13,1
+Sweden,1990,1,1.42843339796312,pm2.5_mean,,1,0
+Sweden,1991,1,1.38563955222275,pm2.5_mean,,1,0
+Sweden,1992,1,2.381731831284431,max_monthly_wind_speed,,1,0
+Sweden,1993,4,3.1102373747944605,"winter_mean_snow_density, max_monthly_wind_speed, pressure_variability, mean_annual_rsn",,4,0
+Sweden,1994,14,2.995766553681701,"max_temp, extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, drought_episodes, evap_deficit, annual_total_evap, mean_annual_rsn, mean_latent_heat","mean_soil_moisture, min_monthly_soil_moisture, mean_annual_net_thermal",11,3
+Sweden,1995,2,1.5591464509100417,"annual_freeze_burden, mean_cold_area",,2,0
+Sweden,1996,6,2.280128014440101,"annual_dry_area, mean_dry_area, runoff_days, ozone_mean","mean_temp, mean_annual_rsn",4,2
+Sweden,1997,2,2.2973562582311393,anomaly_heat_days,mean_annual_net_thermal,1,1
+Sweden,1998,6,1.6927885907030724,"heavy_rain_days, runoff_days, annual_potential_evap, mean_annual_net_thermal","min_temp, mean_annual_net_solar",4,2
+Sweden,1999,2,3.264804864619008,anomaly_cold_days,min_temp,1,1
+Sweden,2000,1,1.9168406059191059,mean_annual_wind_speed,,1,0
+Sweden,2001,1,1.7963538344174117,anomaly_cold_days,,1,0
+Sweden,2002,4,2.419161762434261,"max_year_precip, pressure_variability, mean_annual_net_solar",mean_sensible_heat,3,1
+Sweden,2003,1,1.3646597726141403,ozone_mean,,1,0
+Sweden,2004,1,1.3512851909650243,,mean_annual_rsn,0,1
+Sweden,2005,2,2.255721361005629,"runoff_days, no2_mean",,2,0
+Sweden,2006,1,2.2153078204371703,anomaly_heat_days,,1,0
+Sweden,2008,1,1.4396232017498733,winter_mean_snow_density,,1,0
+Sweden,2010,3,2.865788145176643,"annual_freeze_burden, mean_cold_area",mean_temp,2,1
+Sweden,2011,2,3.106494981837345,"extreme_rain_days, mean_sensible_heat",,2,0
+Sweden,2012,2,2.4889022502098785,"max_year_precip, max_runoff",,2,0
+Sweden,2014,3,1.4726709764635755,mean_temp,"annual_total_evap, mean_latent_heat",1,2
+Sweden,2015,1,1.7753039800675787,mean_sensible_heat,,1,0
+Sweden,2017,1,1.3949176860810086,heavy_rain_days,,1,0
+Sweden,2018,14,3.9407374645751116,"heat_episodes, extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, annual_dry_area, drought_episodes, mean_dry_area, evap_deficit, mean_annual_net_solar","mean_soil_moisture, min_monthly_soil_moisture, mean_sensible_heat",11,3
+Sweden,2019,2,3.9407374645751116,"heat_episodes, extreme_heat_episodes",,2,0
+Sweden,2020,4,2.4141781648017404,"mean_temp, mean_annual_wind_speed","annual_total_evap, mean_latent_heat",2,2
+Sweden,2021,3,1.8608037501945087,"heavy_rain_days, extreme_rain_days, max_runoff",,3,0
+Sweden,2022,1,1.807928619302818,max_temp,,1,0
+Sweden,2023,5,4.9699338770497095,"annual_total_evap, annual_potential_evap, mean_annual_net_thermal, mean_latent_heat",mean_annual_net_solar,4,1
+Switzerland,1990,3,2.766812316979902,"heat_episodes, pm2.5_mean, no2_mean",,3,0
+Switzerland,1991,4,1.721158153028646,"heat_episodes, annual_freeze_burden, mean_cold_area, pm2.5_mean",,4,0
+Switzerland,1992,1,0.0,heat_episodes,,1,0
+Switzerland,1993,4,3.95123253877182,"heat_episodes, max_year_precip, max_runoff, max_monthly_wind_speed",,4,0
+Switzerland,1994,2,1.7575495456977293,"anomaly_heat_days, heat_episodes",,2,0
+Switzerland,1995,4,1.9381744321695864,"heat_episodes, annual_total_evap, mean_latent_heat",min_temp,3,1
+Switzerland,1996,5,1.7095030061809255,"heat_episodes, annual_freeze_burden, mean_cold_area","mean_temp, mean_sensible_heat",3,2
+Switzerland,1997,2,1.8934059684413365,"heat_episodes, winter_mean_snow_density",,2,0
+Switzerland,1998,2,1.796962922936569,"heat_episodes, mean_annual_wind_speed",,2,0
+Switzerland,1999,7,2.4501901196926013,"heat_episodes, heavy_rain_days, extreme_rain_days, runoff_days, annual_potential_evap, mean_sensible_heat",mean_annual_net_solar,6,1
+Switzerland,2000,4,2.3731170450471315,"heat_episodes, winter_mean_snow_density, heavy_rain_days, max_runoff",,4,0
+Switzerland,2001,2,2.0544924460816594,"heat_episodes, runoff_days",,2,0
+Switzerland,2002,1,0.0,heat_episodes,,1,0
+Switzerland,2003,17,3.9044962961308833,"anomaly_heat_days, heat_episodes, extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, anomaly_cold_days, annual_dry_area, drought_episodes, mean_dry_area, evap_deficit, ozone_mean, mean_annual_net_solar","mean_soil_moisture, min_monthly_soil_moisture, mean_annual_net_thermal",14,3
+Switzerland,2004,2,2.4586887461288827,"heat_episodes, ozone_mean",,2,0
+Switzerland,2005,3,2.9561107961018465,"heat_episodes, anomaly_cold_days",min_temp,2,1
+Switzerland,2006,1,0.0,heat_episodes,,1,0
+Switzerland,2007,1,0.0,heat_episodes,,1,0
+Switzerland,2008,2,1.610830280200929,"heat_episodes, extreme_rain_days",,2,0
+Switzerland,2009,2,1.375614110986749,"heat_episodes, mean_annual_rsn",,2,0
+Switzerland,2010,3,1.8390254195221476,"heat_episodes, mean_annual_net_thermal",mean_temp,2,1
+Switzerland,2011,6,2.4143239358457067,"heat_episodes, annual_dry_area, drought_episodes, mean_dry_area, mean_annual_net_solar",mean_annual_net_thermal,5,1
+Switzerland,2012,1,0.0,heat_episodes,,1,0
+Switzerland,2013,3,1.6623825366510805,"heat_episodes, pressure_variability, mean_annual_rsn",,3,0
+Switzerland,2014,2,1.1296838061273509,heat_episodes,mean_sensible_heat,1,1
+Switzerland,2015,8,2.446756537645458,"max_temp, heat_episodes, extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area",min_monthly_soil_moisture,7,1
+Switzerland,2016,1,0.0,heat_episodes,,1,0
+Switzerland,2017,4,1.9290232671830785,heat_episodes,"annual_total_evap, mean_annual_rsn, mean_latent_heat",1,3
+Switzerland,2018,3,2.3023559496548907,"heat_episodes, pressure_variability",mean_soil_moisture,2,1
+Switzerland,2019,1,0.0,heat_episodes,,1,0
+Switzerland,2020,5,2.0970615873067127,"heat_episodes, max_year_precip, max_monthly_wind_speed","annual_total_evap, mean_latent_heat",3,2
+Switzerland,2021,1,0.0,heat_episodes,,1,0
+Switzerland,2022,4,2.103381187531154,"mean_temp, heat_episodes, drought_episodes, evap_deficit",,4,0
+Switzerland,2023,12,5.077846979738474,"mean_temp, max_temp, heat_episodes, extreme_heat_episodes, mean_annual_wind_speed, annual_total_evap, annual_potential_evap, mean_annual_net_thermal, mean_latent_heat, mean_sensible_heat","mean_annual_rsn, mean_annual_net_solar",10,2
+Thailand,1990,5,1.6030854979237128,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, pm2.5_mean, mean_annual_rsn",,5,0
+Thailand,1991,7,1.6848642834601175,"extreme_heat_episodes, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, drought_episodes, pm2.5_mean, mean_annual_rsn",,7,0
+Thailand,1992,10,4.160274698719559,"anomaly_heat_days, anomaly_cold_days, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, drought_episodes, mean_annual_wind_speed, pressure_variability, mean_annual_rsn",mean_annual_net_thermal,9,1
+Thailand,1993,6,1.9448031121725164,"anomaly_cold_days, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn, mean_annual_net_solar",,6,0
+Thailand,1994,7,2.0125349377613913,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, runoff_days, max_monthly_wind_speed, pressure_variability, mean_annual_rsn",,7,0
+Thailand,1995,4,0.9851843661437781,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Thailand,1996,5,1.7524690503270655,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, max_runoff, mean_annual_rsn",,5,0
+Thailand,1997,4,0.9851843661437781,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Thailand,1998,13,2.141076390936416,"mean_temp, heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, evap_deficit, mean_annual_rsn, mean_annual_net_solar",mean_sensible_heat,12,1
+Thailand,1999,9,2.9742041865918822,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, heavy_rain_days, max_monthly_wind_speed, mean_annual_rsn, mean_sensible_heat","mean_temp, min_temp",7,2
+Thailand,2000,4,0.9851843661437781,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Thailand,2001,4,0.9851843661437781,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Thailand,2002,4,0.9851843661437781,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Thailand,2003,4,0.9851843661437781,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Thailand,2004,9,1.6630697537964332,"extreme_heat_episodes, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, annual_dry_area, mean_dry_area, mean_annual_rsn","mean_soil_moisture, mean_annual_net_thermal",7,2
+Thailand,2005,7,2.844274498844796,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, max_year_precip, max_runoff, mean_annual_rsn",min_monthly_soil_moisture,6,1
+Thailand,2006,4,0.9851843661437781,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Thailand,2007,4,0.9851843661437781,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Thailand,2008,4,0.9851843661437781,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Thailand,2009,4,0.9851843661437781,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Thailand,2010,4,0.9851843661437781,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Thailand,2011,7,2.0780190388943525,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, no2_mean, mean_annual_wind_speed, mean_annual_rsn",mean_temp,6,1
+Thailand,2012,6,1.7632399759554873,"extreme_heat_episodes, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, no2_mean, mean_annual_rsn",,6,0
+Thailand,2013,6,1.8348026357331997,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, no2_mean, mean_annual_rsn",min_temp,5,1
+Thailand,2014,5,1.1351190152046768,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",min_monthly_soil_moisture,4,1
+Thailand,2015,4,0.9851843661437781,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Thailand,2016,7,2.1342232259460565,"max_temp, anomaly_heat_days, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, max_year_precip, mean_annual_rsn",,7,0
+Thailand,2017,9,2.060730911950582,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, heavy_rain_days, extreme_rain_days, mean_annual_rsn, mean_sensible_heat","annual_total_evap, mean_latent_heat",7,2
+Thailand,2018,6,1.3090274983898427,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn","annual_total_evap, mean_latent_heat",4,2
+Thailand,2019,14,1.9954587206331376,"mean_temp, heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, annual_dry_area, mean_dry_area, ozone_mean, mean_annual_rsn",mean_soil_moisture,13,1
+Thailand,2020,9,1.8270872793690487,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, evap_deficit, ozone_mean, annual_total_evap, mean_annual_rsn, mean_latent_heat",mean_sensible_heat,8,1
+Thailand,2021,4,0.9851843661437781,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Thailand,2022,9,2.6570275162596864,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, extreme_rain_days, runoff_days, annual_potential_evap, mean_annual_rsn, mean_annual_net_thermal",mean_annual_net_solar,8,1
+Thailand,2023,10,4.38290727872245,"max_temp, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, annual_total_evap, annual_potential_evap, mean_annual_rsn, mean_annual_net_thermal, mean_latent_heat",mean_annual_net_solar,9,1
+Tunisia,1990,3,2.7135472674725625,"max_year_precip, ozone_mean",mean_annual_rsn,2,1
+Tunisia,1991,2,2.1475891693278353,ozone_mean,mean_temp,1,1
+Tunisia,1992,2,2.0432476084311126,annual_potential_evap,mean_temp,1,1
+Tunisia,1993,1,2.3007268185930045,max_monthly_wind_speed,,1,0
+Tunisia,1995,2,1.8383622114549414,mean_annual_wind_speed,min_temp,1,1
+Tunisia,1997,3,1.8269608313296082,"anomaly_heat_days, extreme_rain_days",mean_annual_rsn,2,1
+Tunisia,1999,10,4.51837136433623,"anomaly_heat_days, heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, winter_mean_snow_density, ozone_mean, mean_annual_rsn",min_temp,9,1
+Tunisia,2000,2,0.6994891438585464,mean_annual_net_solar,mean_annual_net_thermal,1,1
+Tunisia,2001,3,1.286789932778437,"evap_deficit, mean_annual_net_solar",mean_sensible_heat,2,1
+Tunisia,2002,1,2.300290949057893,pm2.5_mean,,1,0
+Tunisia,2003,3,2.2275499861239014,runoff_days,"annual_total_evap, mean_latent_heat",1,2
+Tunisia,2005,7,3.13255487598201,"anomaly_cold_days, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, runoff_days, max_runoff, mean_annual_rsn",,7,0
+Tunisia,2008,1,1.2319053080281621,pressure_variability,,1,0
+Tunisia,2009,5,1.8269608313296082,"heavy_rain_days, extreme_rain_days, mean_sensible_heat","annual_total_evap, mean_latent_heat",3,2
+Tunisia,2012,3,2.1971035985874274,"anomaly_cold_days, annual_freeze_burden, mean_cold_area",,3,0
+Tunisia,2013,3,1.902201912013544,"extreme_heat_episodes, max_monthly_wind_speed, mean_annual_wind_speed",,3,0
+Tunisia,2015,2,2.741716270298047,"max_runoff, pressure_variability",,2,0
+Tunisia,2016,3,1.2681776481697182,no2_mean,"min_monthly_soil_moisture, mean_sensible_heat",1,2
+Tunisia,2017,1,2.026188599171384,max_year_precip,,1,0
+Tunisia,2018,1,1.5042131687169293,max_temp,,1,0
+Tunisia,2019,1,1.547029268014243,heavy_rain_days,,1,0
+Tunisia,2021,8,2.2193399754648033,"mean_temp, anomaly_heat_days, annual_dry_area, mean_dry_area, evap_deficit","mean_soil_moisture, min_monthly_soil_moisture, mean_annual_net_thermal",5,3
+Tunisia,2022,11,2.433754929037361,"mean_temp, heat_episodes, annual_dry_area, drought_episodes, mean_dry_area, pm2.5_mean, annual_total_evap, mean_annual_net_thermal, mean_latent_heat","mean_soil_moisture, mean_annual_net_solar",9,2
+Tunisia,2023,14,5.4623081263488675,"max_temp, heat_episodes, extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, drought_episodes, annual_total_evap, annual_potential_evap, mean_annual_net_thermal, mean_latent_heat, mean_sensible_heat",mean_annual_net_solar,13,1
+Uganda,1990,7,3.4210018027806592,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, no2_mean, mean_annual_rsn","annual_total_evap, mean_latent_heat",5,2
+Uganda,1991,6,1.6439918180699165,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, annual_potential_evap, mean_annual_rsn",mean_temp,5,1
+Uganda,1992,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Uganda,1993,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Uganda,1994,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Uganda,1995,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Uganda,1996,5,1.9005966019767642,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, heavy_rain_days, mean_annual_rsn",,5,0
+Uganda,1997,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Uganda,1998,7,2.5780378834360578,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, extreme_rain_days, runoff_days, max_monthly_wind_speed, mean_annual_rsn",,7,0
+Uganda,1999,5,2.393876430880731,"anomaly_cold_days, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,5,0
+Uganda,2000,7,1.3123527938052526,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn, mean_annual_net_solar","mean_annual_net_thermal, mean_sensible_heat",5,2
+Uganda,2001,6,1.7097267325591219,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn","mean_temp, min_temp",4,2
+Uganda,2002,5,2.205043133563644,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, max_runoff, mean_annual_rsn",,5,0
+Uganda,2003,5,1.5053629490529514,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, drought_episodes, mean_annual_rsn",,5,0
+Uganda,2004,6,2.393876430880731,"anomaly_cold_days, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",min_temp,5,1
+Uganda,2005,6,2.1143813599107264,"max_temp, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, max_monthly_wind_speed, mean_annual_rsn",,6,0
+Uganda,2006,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Uganda,2007,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Uganda,2008,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Uganda,2009,6,1.6606868685551548,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_wind_speed, mean_annual_rsn",mean_sensible_heat,5,1
+Uganda,2010,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Uganda,2011,5,1.6923371201696218,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, pm2.5_mean, mean_annual_rsn",,5,0
+Uganda,2012,5,1.5307369740690535,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, pressure_variability, mean_annual_rsn",,5,0
+Uganda,2013,5,1.944482002228198,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, pm2.5_mean, mean_annual_rsn",,5,0
+Uganda,2014,4,0.0,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",,4,0
+Uganda,2015,9,2.5125288577216525,"heat_episodes, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, extreme_rain_days, drought_episodes, runoff_days, mean_annual_rsn",min_monthly_soil_moisture,8,1
+Uganda,2016,14,2.410702644445726,"mean_temp, heat_episodes, extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, extreme_rain_days, evap_deficit, mean_annual_rsn",mean_soil_moisture,13,1
+Uganda,2017,8,2.2728642274361217,"anomaly_heat_days, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, evap_deficit, mean_annual_rsn, mean_annual_net_solar",mean_annual_net_thermal,7,1
+Uganda,2018,5,1.5475005434320925,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, pressure_variability, mean_annual_rsn",,5,0
+Uganda,2019,7,2.479304255217497,"max_temp, anomaly_heat_days, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, ozone_mean, mean_annual_rsn",,7,0
+Uganda,2020,10,2.0994887170273633,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, heavy_rain_days, max_year_precip, ozone_mean, mean_annual_rsn, mean_sensible_heat","annual_total_evap, mean_latent_heat",8,2
+Uganda,2021,9,2.0536996760761705,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, annual_dry_area, drought_episodes, mean_dry_area, mean_annual_wind_speed, mean_annual_rsn",mean_soil_moisture,8,1
+Uganda,2022,11,2.209793126801534,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, annual_dry_area, drought_episodes, mean_dry_area, annual_total_evap, mean_annual_rsn, mean_annual_net_thermal, mean_latent_heat",mean_annual_net_solar,10,1
+Uganda,2023,19,5.2195769244156285,"mean_temp, extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, annual_freeze_burden, winter_mean_snow_density, mean_cold_area, max_year_precip, max_runoff, annual_total_evap, annual_potential_evap, mean_annual_rsn, mean_annual_net_thermal, mean_latent_heat, mean_sensible_heat","min_monthly_soil_moisture, mean_annual_net_solar",17,2
+Ukraine,1990,3,2.9685751124922777,"pm2.5_mean, ozone_mean, no2_mean",,3,0
+Ukraine,1991,3,1.6221655399596366,"pm2.5_mean, ozone_mean",mean_annual_net_solar,2,1
+Ukraine,1992,1,1.713246681320019,max_monthly_wind_speed,,1,0
+Ukraine,1993,4,2.742430985845903,"max_monthly_wind_speed, mean_annual_wind_speed, pressure_variability, mean_sensible_heat",,4,0
+Ukraine,1995,2,2.221369463784322,"extreme_rain_days, runoff_days",,2,0
+Ukraine,1996,3,2.2479481070923,anomaly_cold_days,"mean_temp, min_temp",1,2
+Ukraine,1997,7,2.150512695005663,"annual_freeze_burden, mean_cold_area, heavy_rain_days, annual_potential_evap, mean_sensible_heat","mean_temp, min_temp",5,2
+Ukraine,1998,2,1.862419844281402,"anomaly_cold_days, max_runoff",,2,0
+Ukraine,2000,1,1.8563532630569854,mean_annual_wind_speed,,1,0
+Ukraine,2001,4,1.7623765555200837,"anomaly_heat_days, anomaly_cold_days","annual_total_evap, mean_latent_heat",2,2
+Ukraine,2003,3,2.050216991714807,"annual_freeze_burden, mean_cold_area, mean_annual_rsn",,3,0
+Ukraine,2004,1,1.8269748853578631,extreme_rain_days,,1,0
+Ukraine,2006,1,2.190023455702176,runoff_days,,1,0
+Ukraine,2007,9,3.6318268919174135,"max_temp, anomaly_heat_days, extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, max_runoff",mean_sensible_heat,8,1
+Ukraine,2008,3,3.297703748943487,"max_year_precip, pressure_variability",mean_annual_rsn,2,1
+Ukraine,2010,3,1.9602592026504255,"max_temp, heat_episodes, extreme_heat_episodes",,3,0
+Ukraine,2011,2,2.209561805439109,"annual_dry_area, mean_dry_area",,2,0
+Ukraine,2012,5,1.5649583354887322,"extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area",,5,0
+Ukraine,2013,3,2.747249740825681,"winter_mean_snow_density, max_year_precip, mean_annual_rsn",,3,0
+Ukraine,2014,3,1.750113532957274,"annual_dry_area, mean_dry_area, mean_annual_net_solar",,3,0
+Ukraine,2015,4,1.9408459129812847,"drought_episodes, evap_deficit","min_monthly_soil_moisture, mean_annual_net_thermal",2,2
+Ukraine,2016,2,1.6028165779255694,"heat_episodes, heavy_rain_days",,2,0
+Ukraine,2018,1,1.4601192718625378,extreme_heat_episodes,,1,0
+Ukraine,2019,3,2.48052789332505,winter_mean_snow_density,"mean_soil_moisture, min_monthly_soil_moisture",1,2
+Ukraine,2020,7,1.8841130974108657,"mean_temp, drought_episodes, evap_deficit, mean_annual_net_solar","mean_soil_moisture, mean_annual_net_thermal, mean_sensible_heat",4,3
+Ukraine,2021,2,0.8474577562922033,,"annual_total_evap, mean_latent_heat",0,2
+Ukraine,2022,3,1.0591203039513175,"annual_total_evap, mean_annual_net_thermal, mean_latent_heat",,3,0
+Ukraine,2023,7,5.148176926346051,"mean_temp, annual_total_evap, annual_potential_evap, mean_annual_net_thermal, mean_latent_heat","mean_annual_rsn, mean_annual_net_solar",5,2
+United States of America,1990,4,4.053268620655354,"anomaly_cold_days, pm2.5_mean, no2_mean, max_monthly_wind_speed",,4,0
+United States of America,1991,2,2.16482173088114,"pm2.5_mean, pressure_variability",,2,0
+United States of America,1993,3,1.999743275978039,mean_annual_rsn,"mean_temp, min_temp",1,2
+United States of America,1995,6,3.0996099720162595,"heavy_rain_days, extreme_rain_days, runoff_days, no2_mean","annual_total_evap, mean_latent_heat",4,2
+United States of America,1996,3,1.7421067173817004,"annual_freeze_burden, mean_cold_area",mean_temp,2,1
+United States of America,1997,2,2.0137876983929153,"winter_mean_snow_density, mean_annual_rsn",,2,0
+United States of America,1998,2,2.694678151568444,"ozone_mean, pressure_variability",,2,0
+United States of America,1999,5,2.1197797343670652,"annual_dry_area, drought_episodes, mean_dry_area, ozone_mean, mean_annual_net_solar",,5,0
+United States of America,2001,1,2.1197797343670652,drought_episodes,,1,0
+United States of America,2002,2,1.6351204745526102,mean_annual_wind_speed,mean_sensible_heat,1,1
+United States of America,2006,1,0.6724670805052329,,mean_annual_net_thermal,0,1
+United States of America,2007,1,0.9628843819634472,evap_deficit,,1,0
+United States of America,2010,1,2.1473062349706056,winter_mean_snow_density,,1,0
+United States of America,2011,1,2.0421528201898056,mean_annual_wind_speed,,1,0
+United States of America,2012,16,2.4956721856507014,"mean_temp, extreme_area, caution_area, mean_caution_area, mean_extreme_area, anomaly_cold_days, annual_dry_area, mean_dry_area, evap_deficit, mean_annual_net_solar","min_temp, mean_soil_moisture, min_monthly_soil_moisture, mean_annual_rsn, mean_annual_net_thermal, mean_sensible_heat",10,6
+United States of America,2013,2,2.038700531396276,"annual_freeze_burden, mean_cold_area",,2,0
+United States of America,2014,1,2.335045897556085,max_monthly_wind_speed,,1,0
+United States of America,2015,2,1.9955486064043175,extreme_rain_days,mean_annual_rsn,1,1
+United States of America,2016,7,3.614865730382055,"mean_temp, max_temp, heavy_rain_days, max_year_precip, max_runoff","annual_total_evap, mean_latent_heat",5,2
+United States of America,2017,1,2.288808156196399,runoff_days,,1,0
+United States of America,2018,3,1.778658153851913,"extreme_heat_episodes, max_year_precip, max_runoff",,3,0
+United States of America,2020,5,2.19318456554101,"anomaly_heat_days, heat_episodes, extreme_area, caution_area",min_monthly_soil_moisture,4,1
+United States of America,2021,4,2.400895638600604,"max_temp, anomaly_heat_days, heat_episodes, extreme_heat_episodes",,4,0
+United States of America,2022,10,1.4985106634080478,"mean_caution_area, mean_extreme_area, anomaly_cold_days, annual_total_evap, annual_potential_evap, mean_annual_net_thermal, mean_latent_heat, mean_sensible_heat","mean_soil_moisture, mean_annual_net_solar",8,2
+United States of America,2023,6,5.477300880457346,"annual_total_evap, annual_potential_evap, mean_annual_net_thermal, mean_latent_heat, mean_sensible_heat",mean_annual_net_solar,5,1
+Zimbabwe,1990,2,0.0,"winter_mean_snow_density, mean_annual_rsn",,2,0
+Zimbabwe,1991,2,0.0,"winter_mean_snow_density, mean_annual_rsn",,2,0
+Zimbabwe,1992,18,2.408468527514441,"mean_temp, anomaly_heat_days, heat_episodes, extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, winter_mean_snow_density, drought_episodes, evap_deficit, annual_total_evap, mean_annual_rsn, mean_annual_net_solar, mean_latent_heat","mean_soil_moisture, mean_annual_net_thermal, mean_sensible_heat",15,3
+Zimbabwe,1993,3,2.1362247661775,"winter_mean_snow_density, max_monthly_wind_speed, mean_annual_rsn",,3,0
+Zimbabwe,1994,10,5.469550279807804,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, annual_dry_area, drought_episodes, mean_dry_area, mean_annual_rsn","min_temp, mean_annual_net_thermal, mean_sensible_heat",7,3
+Zimbabwe,1995,3,1.337865869824367,"winter_mean_snow_density, evap_deficit, mean_annual_rsn",,3,0
+Zimbabwe,1996,3,1.9250695563645912,"anomaly_cold_days, winter_mean_snow_density, mean_annual_rsn",,3,0
+Zimbabwe,1997,4,2.0115730712129074,"winter_mean_snow_density, extreme_rain_days, runoff_days, mean_annual_rsn",,4,0
+Zimbabwe,1998,2,0.0,"winter_mean_snow_density, mean_annual_rsn",,2,0
+Zimbabwe,1999,3,1.3082669858285025,"winter_mean_snow_density, mean_annual_rsn",mean_temp,2,1
+Zimbabwe,2000,9,2.3923193701026597,"winter_mean_snow_density, heavy_rain_days, max_year_precip, max_runoff, pressure_variability, mean_annual_rsn","mean_temp, annual_total_evap, mean_latent_heat",6,3
+Zimbabwe,2001,3,2.336358160834561,"winter_mean_snow_density, pm2.5_mean, mean_annual_rsn",,3,0
+Zimbabwe,2002,6,1.6906954441531317,"winter_mean_snow_density, annual_dry_area, mean_dry_area, mean_annual_wind_speed, mean_annual_rsn",mean_soil_moisture,5,1
+Zimbabwe,2003,2,0.0,"winter_mean_snow_density, mean_annual_rsn",,2,0
+Zimbabwe,2004,2,0.0,"winter_mean_snow_density, mean_annual_rsn",,2,0
+Zimbabwe,2005,9,1.8533359520217119,"extreme_heat_episodes, extreme_area, caution_area, mean_caution_area, mean_extreme_area, winter_mean_snow_density, max_monthly_wind_speed, mean_annual_wind_speed, mean_annual_rsn",,9,0
+Zimbabwe,2006,5,2.053912794388993,"anomaly_cold_days, winter_mean_snow_density, ozone_mean, mean_annual_rsn",min_monthly_soil_moisture,4,1
+Zimbabwe,2007,4,1.594916509964662,"winter_mean_snow_density, extreme_rain_days, ozone_mean, mean_annual_rsn",,4,0
+Zimbabwe,2008,2,0.0,"winter_mean_snow_density, mean_annual_rsn",,2,0
+Zimbabwe,2009,2,0.0,"winter_mean_snow_density, mean_annual_rsn",,2,0
+Zimbabwe,2010,3,2.2105684894673803,"winter_mean_snow_density, pm2.5_mean, mean_annual_rsn",,3,0
+Zimbabwe,2011,2,0.0,"winter_mean_snow_density, mean_annual_rsn",,2,0
+Zimbabwe,2012,5,2.3298687302938657,"annual_freeze_burden, winter_mean_snow_density, mean_cold_area, mean_annual_rsn",min_temp,4,1
+Zimbabwe,2013,2,0.0,"winter_mean_snow_density, mean_annual_rsn",,2,0
+Zimbabwe,2014,2,0.0,"winter_mean_snow_density, mean_annual_rsn",,2,0
+Zimbabwe,2015,5,1.9830538111150822,"max_temp, winter_mean_snow_density, mean_annual_rsn, mean_annual_net_solar",min_monthly_soil_moisture,4,1
+Zimbabwe,2016,2,0.0,"winter_mean_snow_density, mean_annual_rsn",,2,0
+Zimbabwe,2017,5,1.6972691525483985,"winter_mean_snow_density, heavy_rain_days, mean_annual_rsn","annual_total_evap, mean_latent_heat",3,2
+Zimbabwe,2018,2,0.0,"winter_mean_snow_density, mean_annual_rsn",,2,0
+Zimbabwe,2019,8,3.6589162065329006,"mean_temp, max_temp, anomaly_heat_days, heat_episodes, winter_mean_snow_density, max_year_precip, max_runoff, mean_annual_rsn",,8,0
+Zimbabwe,2020,4,1.8071170442676696,"winter_mean_snow_density, extreme_rain_days, no2_mean, mean_annual_rsn",,4,0
+Zimbabwe,2021,3,1.6212208656605938,"winter_mean_snow_density, pressure_variability, mean_annual_rsn",,3,0
+Zimbabwe,2022,6,1.9451564012390214,"winter_mean_snow_density, annual_potential_evap, mean_annual_rsn, mean_annual_net_thermal, mean_sensible_heat",mean_annual_net_solar,5,1
+Zimbabwe,2023,10,4.884385207777877,"winter_mean_snow_density, extreme_rain_days, runoff_days, annual_total_evap, annual_potential_evap, mean_annual_rsn, mean_annual_net_thermal, mean_latent_heat, mean_sensible_heat",mean_annual_net_solar,9,1
